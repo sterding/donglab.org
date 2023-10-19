@@ -1,1 +1,1 @@
-Sitemap: /donglab.org/sitemap.xml
+Sitemap: /sitemap.xml
