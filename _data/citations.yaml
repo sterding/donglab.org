@@ -69,28 +69,6 @@
   term: Dong, Xianjun[Author]
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:37066229
-  title: Circular RNAs in the human brain are tailored to neuron identity and neuropsychiatric
-    disease.
-  authors:
-  - Xianjun Dong
-  - Yunfei Bai
-  - Zhixiang Liao
-  - David Gritsch
-  - Xiaoli Liu
-  - Tao Wang
-  - Rebeca Borges-Monroy
-  - Alyssa Ehrlich
-  - Geidy E Serano
-  - Mel B Feany
-  - Thomas G Beach
-  - Clemens R Scherzer
-  publisher: 'bioRxiv : the preprint server for biology'
-  date: '2023-04-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37066229
-  term: Dong, Xianjun[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:36525587
   title: Discovery of genomic loci associated with sleep apnea risk through multi-trait
     GWAS analysis with snoring.
