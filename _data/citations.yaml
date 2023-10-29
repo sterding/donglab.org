@@ -4,7 +4,7 @@
   title: Circular RNAs in the human brain are tailored to neuron identity and neuropsychiatric
     disease.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Yunfei Bai
   - Zhixiang Liao
   - David Gritsch
@@ -40,7 +40,7 @@
   - Jue Sheng Ong
   - "Miguel E Renter\xEDa"
   - Puja Mehta
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Francesca Pasutto
   - Christopher Hammond
   - Terri L Young
@@ -84,7 +84,7 @@
   - Matthew H Law
   - Jennifer S Yokoyama
   - Nicholas G Martin
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Gabriel Cuellar-Partida
   - Stuart MacGregor
   - Stella Aslibekyan
@@ -107,7 +107,7 @@
   - Shubhangi Sathyakumar
   - Souvarish Sarkar
   - Xin Jiang
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Roberto Di Maio
   - Wen Wang
   - Matthew T Keeney
@@ -141,7 +141,7 @@
   - Kyung Serk Cho
   - Astrid Marilyn Manuel
   - Xiaoyang Li
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Peilin Jia
   - Zhongming Zhao
   publisher: Nucleic acids research
@@ -165,7 +165,7 @@
   - Jouke Jan Hottenga
   - Michelle K Lupton
   - Dorret I Boomsma
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Kristian Hveem
   - "Mari L\xF8set"
   - Nicholas G Martin
@@ -191,7 +191,7 @@
   - Yong Wang
   - Meng Li
   - Qinsi Yang
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Jianzhong Su
   - Luke P Lee
   - Fei Liu
@@ -209,7 +209,7 @@
   - Tao Wang
   - Yongzhuang Liu
   - Junpeng Ruan
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Yadong Wang
   - Jiajie Peng
   publisher: BMC bioinformatics
@@ -226,7 +226,7 @@
   - Jue-Sheng Ong
   - Clemens R Scherzer
   - "Miguel E Renter\xEDa"
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   publisher: Scientific reports
   date: '2021-07-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34234189
@@ -237,13 +237,13 @@
   title: 'powerEQTL: an R package and shiny application for sample size and power
     calculation of bulk tissue and single-cell eQTL analysis.'
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Xiaoqi Li
   - Tzuu-Wang Chang
   - Clemens R Scherzer
   - Scott T Weiss
   - Weiliang Qiu
-  publisher: Bioinformatics (Oxford, England)
+  publisher: Bioinformatics
   date: '2021-11-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34009297
   term: Dong, Xianjun[Author]
@@ -260,7 +260,7 @@
   title: Review of multi-omics data resources and integrative analysis for human brain
     disorders.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Chunyu Liu
   - Mikhail Dozmorov
   publisher: Briefings in functional genomics
@@ -269,6 +269,7 @@
   term: Dong, Xianjun[Author]
   plugin: sources.py
   file: sources.yaml
+  image: publication/thumbnail/omicsreview.jpg
 - id: pubmed:33960523
   title: 'Accelerating Medicines Partnership: Parkinson''s Disease. Genetic Resource.'
   authors:
@@ -287,14 +288,14 @@
   - Dinesh Kumar
   - Clifton L Dalgard
   - Mahdiar Sadeghi
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Leonie Misquitta
   - Sonja W Scholz
   - Clemens R Scherzer
   - Mike A Nalls
   - Shameek Biswas
   - Andrew B Singleton
-  publisher: 'Movement disorders : official journal of the Movement Disorder Society'
+  publisher: Movement disorders
   date: '2021-05-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33960523
   term: Dong, Xianjun[Author]
@@ -310,7 +311,7 @@
   - Joseph J Locascio
   - Jean-Christophe Corvol
   - Frank Zhu
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - "Jodi Maple-Gr\xF8dem"
   - Meghan C Campbell
   - Alexis Elbaz
@@ -367,9 +368,9 @@
   - Bi Zhao
   - Ying Wu
   - Tao Li
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Huifang Shang
-  publisher: 'Movement disorders : official journal of the Movement Disorder Society'
+  publisher: Movement disorders
   date: '2021-04-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33884653
   term: Dong, Xianjun[Author]
@@ -387,7 +388,7 @@
   - Liang Hu
   - Doudou Lou
   - Jiaoyuan Li
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Luke P Lee
   - Fei Liu
   publisher: Nature methods
@@ -407,7 +408,7 @@
   - Christine K Brown
   - Julia Oppenheimer
   - Carol Bigelow
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - William E Theurkauf
   - Zhiping Weng
   - Lawrence M Schwartz
@@ -421,7 +422,7 @@
   title: 'Publisher Correction: Enhancers active in dopamine neurons are a primary
     link between genetic variation and neuropsychiatric disease.'
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Zhixiang Liao
   - David Gritsch
   - Yavor Hadzhiev
@@ -453,7 +454,7 @@
   title: Enhancers active in dopamine neurons are a primary link between genetic variation
     and neuropsychiatric disease.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Zhixiang Liao
   - David Gritsch
   - Yavor Hadzhiev
@@ -497,7 +498,7 @@
   - "Kjetil Bj\xF8rnevik"
   - Doo Soon Im
   - Adrian Flierl
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Joseph J Locascio
   - Kristine M Abo
   - Elizabeth Long
@@ -517,7 +518,7 @@
   - David S Park
   - Trond Riise
   - Clemens R Scherzer
-  publisher: Science (New York, N.Y.)
+  publisher: Science
   date: '2017-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28860381
   term: Dong, Xianjun[Author]
@@ -527,7 +528,7 @@
   title: The Role of H3K4me3 in Transcriptional Regulation Is Altered in Huntington's
     Disease.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Junko Tsuji
   - Adam Labadorf
   - Panos Roussos
@@ -535,7 +536,7 @@
   - Richard H Myers
   - Schahram Akbarian
   - Zhiping Weng
-  publisher: PloS one
+  publisher: PloS One
   date: '2015-12-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26636336
   term: Dong, Xianjun[Author]
@@ -563,7 +564,7 @@
   - Dennis J Selkoe
   - David Oakes
   - Ira Shoulson
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Ken Marek
   - Bin Zheng
   - Adrian Ivinson
@@ -573,7 +574,7 @@
   - Michael G Schlossmacher
   - Bernard Ravina
   - Clemens R Scherzer
-  publisher: 'Brain : a journal of neurology'
+  publisher: Brain
   date: '2015-07-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26220939
   term: Dong, Xianjun[Author]
@@ -588,7 +589,7 @@
   - Hennady P Shulha
   - Joana E Coelho
   - Ping Li
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Mira Jakovcevski
   - Yumei Wang
   - Anastasia Grigorenko
@@ -613,7 +614,7 @@
   authors:
   - Andrew G Hoss
   - Vinay K Kartha
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Jeanne C Latourelle
   - Alexandra Dumitriu
   - Tiffany C Hadzi
@@ -640,7 +641,7 @@
   - Christopher Previti
   - Chirag Nepal
   - Jochen Gehrig
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Altuna Akalin
   - Ana Maria Suzuki
   - Wilfred F J van IJcken
@@ -659,7 +660,7 @@
 - id: pubmed:23566087
   title: The correlation between histone modifications and gene expression.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Zhiping Weng
   publisher: Epigenomics
   date: '2013-04-01'
@@ -673,7 +674,7 @@
   authors:
   - Xin Zhiguo Li
   - Christian K Roy
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Ewelina Bolcun-Filas
   - Jie Wang
   - Bo W Han
@@ -685,22 +686,6 @@
   publisher: Molecular cell
   date: '2013-03-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/23523368
-  term: Dong, Xianjun[Author]
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:23235446
-  title: Ammonia sensing behaviors of TiO2-PANI/PA6 composite nanofibers.
-  authors:
-  - Qingqing Wang
-  - Xianjun Dong
-  - Zengyuan Pang
-  - Yuanzhi Du
-  - Xin Xia
-  - Qufu Wei
-  - Fenglin Huang
-  publisher: Sensors (Basel, Switzerland)
-  date: '2012-12-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23235446
   term: Dong, Xianjun[Author]
   plugin: sources.py
   file: sources.yaml
@@ -716,7 +701,7 @@
   - Bong-Hyun Kim
   - Jill Moore
   - Brian G Pierce
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Daniel Virgil
   - Ewan Birney
   - Jui-Hung Hung
@@ -738,7 +723,7 @@
   - Troy W Whitfield
   - Melissa C Greven
   - Brian G Pierce
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Anshul Kundaje
   - Yong Cheng
   - Oliver J Rando
@@ -764,7 +749,7 @@
   - Kevin Y Yip
   - Joel Rozowsky
   - Koon-Kiu Yan
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Sarah Djebali
   - Yijun Ruan
   - Carrie A Davis
@@ -785,7 +770,7 @@
 - id: pubmed:22950368
   title: Modeling gene expression using chromatin features in various cellular contexts.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Melissa C Greven
   - Anshul Kundaje
   - Sarah Djebali
@@ -806,7 +791,7 @@
   title: Making enhancers from spare parts of the genome.
   authors:
   - David Fredman
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Boris Lenhard
   publisher: Genome biology
   date: '2011-12-29'
@@ -822,7 +807,7 @@
   - Ruowang Li
   - Jui-Hung Hung
   - Poshen B Chen
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Ly-Sha Ee
   - Zhiping Weng
   - Oliver J Rando
@@ -837,7 +822,7 @@
   title: Translog, a web browser for studying the expression divergence of homologous
     genes.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Altuna Akalin
   - Yogita Sharma
   - Boris Lenhard
@@ -851,7 +836,7 @@
   title: Exonic remnants of whole-genome duplication reveal cis-regulatory function
     of coding exons.
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Pavla Navratilova
   - David Fredman
   - "\xD8yvind Drivenes"
@@ -870,7 +855,7 @@
   title: 'Synorth: exploring the evolution of synteny and long-range regulatory interactions
     in vertebrate genomes.'
   authors:
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - David Fredman
   - Boris Lenhard
   publisher: Genome biology
@@ -885,7 +870,7 @@
   - Altuna Akalin
   - David Fredman
   - Erik Arner
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Jan Christian Bryne
   - Harukazu Suzuki
   - Carsten O Daub
@@ -903,7 +888,7 @@
   - Sutada Mungpakdee
   - Hee-Chan Seo
   - Anna Rita Angotzi
-  - Xianjun Dong
+  - '**Xianjun Dong**'
   - Altuna Akalin
   - Daniel Chourrout
   publisher: Molecular biology and evolution
