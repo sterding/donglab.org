@@ -17,10 +17,10 @@ nav:
 
 
 {% capture content %}
-  {% include figure.html image="images/group-photos/IMG_1585.jpg" width="300px" %}
+  {% include figure.html image="images/group-photos/IMG_15851.jpg" width="300px" %}
   {% include figure.html image="images/group-photos/IMG_9606.jpg" width="300px" %}
   {% include figure.html image="images/group-photos/IMG_1602.jpg" width="300px" %}
-  {% include figure.html image="images/group-photos/IMG_1577.jpg" width="300px" %}
+  {% include figure.html image="images/group-photos/IMG_15771.jpg" width="300px" %}
   {% include figure.html image="images/group-photos/IMG_1574.jpg" width="300px" %}
   {% include figure.html image="images/group-photos/IMG_1578.jpg" width="300px" %}
 {% endcapture %}
