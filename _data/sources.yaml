@@ -1,23 +1,920 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: pubmed:37723137
+  title: Circular RNAs in the human brain are tailored to neuron identity and neuropsychiatric
+    disease.
+  authors:
+  - Xianjun Dong
+  - Yunfei Bai
+  - Zhixiang Liao
+  - David Gritsch
+  - Xiaoli Liu
+  - Tao Wang
+  - Rebeca Borges-Monroy
+  - Alyssa Ehrlich
+  - Geidy E Serrano
+  - Mel B Feany
+  - Thomas G Beach
+  - Clemens R Scherzer
+  publisher: Nature communications
+  date: '2023-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37723137
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+  image: publication/thumbnail/circRNA.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+      text: Github
+      link: https://github.com/sterding/circRNA
     - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      text: BRAINcode website
+      link: http://www.humanbraincode.org
+- id: pubmed:37386247
+  title: Large-scale multitrait genome-wide association analyses identify hundreds
+    of glaucoma risk loci.
+  authors:
+  - Xikun Han
+  - Puya Gharahkhani
+  - Andrew R Hamel
+  - Jue Sheng Ong
+  - "Miguel E Renter\xEDa"
+  - Puja Mehta
+  - Xianjun Dong
+  - Francesca Pasutto
+  - Christopher Hammond
+  - Terri L Young
+  - Pirro Hysi
+  - Andrew J Lotery
+  - Eric Jorgenson
+  - "H\xE9l\xE8ne Choquet"
+  - Michael Hauser
+  - Jessica N Cooke Bailey
+  - Toru Nakazawa
+  - Masato Akiyama
+  - Yukihiro Shiga
+  - Zachary L Fuller
+  - Xin Wang
+  - Alex W Hewitt
+  - Jamie E Craig
+  - Louis R Pasquale
+  - David A Mackey
+  - Janey L Wiggs
+  - Anthony P Khawaja
+  - "Ayellet V Segr\xE8"
+  - Stuart MacGregor
+  publisher: Nature genetics
+  date: '2023-06-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37386247
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: pubmed:36525587
+  title: Discovery of genomic loci associated with sleep apnea risk through multi-trait
+    GWAS analysis with snoring.
+  authors:
+  - Adrian I Campos
+  - Nathan Ingold
+  - Yunru Huang
+  - Brittany L Mitchell
+  - Pik-Fang Kho
+  - Xikun Han
+  - "Luis M Garc\xEDa-Mar\xEDn"
+  - Jue-Sheng Ong
+  - Matthew H Law
+  - Jennifer S Yokoyama
+  - Nicholas G Martin
+  - Xianjun Dong
+  - Gabriel Cuellar-Partida
+  - Stuart MacGregor
+  - Stella Aslibekyan
+  - "Miguel E Renter\xEDa"
+  publisher: Sleep
+  date: '2023-03-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36525587
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35688132
+  title: The Parkinson's disease protein alpha-synuclein is a modulator of processing
+    bodies and mRNA stability.
+  authors:
+  - Erinc Hallacli
+  - Can Kayatekin
+  - Sumaiya Nazeen
+  - Xiou H Wang
+  - Zoe Sheinkopf
+  - Shubhangi Sathyakumar
+  - Souvarish Sarkar
+  - Xin Jiang
+  - Xianjun Dong
+  - Roberto Di Maio
+  - Wen Wang
+  - Matthew T Keeney
+  - Daniel Felsky
+  - Jackson Sandoe
+  - Aazam Vahdatshoar
+  - Namrata D Udeshi
+  - D R Mani
+  - Steven A Carr
+  - Susan Lindquist
+  - Philip L De Jager
+  - David P Bartel
+  - Chad L Myers
+  - J Timothy Greenamyre
+  - Mel B Feany
+  - Shamil R Sunyaev
+  - Chee Yeun Chung
+  - Vikram Khurana
+  publisher: Cell
+  date: '2022-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35688132
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35610053
+  title: 'WebCSEA: web-based cell-type-specific enrichment analysis of genes.'
+  authors:
+  - Yulin Dai
+  - Ruifeng Hu
+  - Andi Liu
+  - Kyung Serk Cho
+  - Astrid Marilyn Manuel
+  - Xiaoyang Li
+  - Xianjun Dong
+  - Peilin Jia
+  - Zhongming Zhao
+  publisher: Nucleic acids research
+  date: '2022-07-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35610053
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35132056
+  title: Genome-wide association meta-analysis identifies 29 new acne susceptibility
+    loci.
+  authors:
+  - Brittany L Mitchell
+  - Jake R Saklatvala
+  - Nick Dand
+  - Fiona A Hagenbeek
+  - Xin Li
+  - Josine L Min
+  - Laurent Thomas
+  - Meike Bartels
+  - Jouke Jan Hottenga
+  - Michelle K Lupton
+  - Dorret I Boomsma
+  - Xianjun Dong
+  - Kristian Hveem
+  - "Mari L\xF8set"
+  - Nicholas G Martin
+  - Jonathan N Barker
+  - Jiali Han
+  - Catherine H Smith
+  - "Miguel E Renter\xEDa"
+  - Michael A Simpson
+  publisher: Nature communications
+  date: '2022-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35132056
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34663731
+  title: The genetic source tracking of human urinary exosomes.
+  authors:
+  - Qingfu Zhu
+  - Liming Cheng
+  - Chunyu Deng
+  - Liu Huang
+  - Jiaoyuan Li
+  - Yong Wang
+  - Meng Li
+  - Qinsi Yang
+  - Xianjun Dong
+  - Jianzhong Su
+  - Luke P Lee
+  - Fei Liu
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2021-10-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34663731
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34433407
+  title: A pipeline for RNA-seq based eQTL analysis with automated quality control
+    procedures.
+  authors:
+  - Tao Wang
+  - Yongzhuang Liu
+  - Junpeng Ruan
+  - Xianjun Dong
+  - Yadong Wang
+  - Jiajie Peng
+  publisher: BMC bioinformatics
+  date: '2021-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34433407
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34234189
+  title: 'Understanding the effect of smoking and drinking behavior on Parkinson''s
+    disease risk: a Mendelian randomization study.'
+  authors:
+  - "Carmen Dom\xEDnguez-Bale\xF3n"
+  - Jue-Sheng Ong
+  - Clemens R Scherzer
+  - "Miguel E Renter\xEDa"
+  - Xianjun Dong
+  publisher: Scientific reports
+  date: '2021-07-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34234189
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34009297
+  title: 'powerEQTL: an R package and shiny application for sample size and power
+    calculation of bulk tissue and single-cell eQTL analysis.'
+  authors:
+  - Xianjun Dong
+  - Xiaoqi Li
+  - Tzuu-Wang Chang
+  - Clemens R Scherzer
+  - Scott T Weiss
+  - Weiliang Qiu
+  publisher: Bioinformatics (Oxford, England)
+  date: '2021-11-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34009297
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+  buttons:
+    - type: source
+      link: https://cran.r-project.org/web/packages/powerEQTL/
+    - type: website
+      text: R shiny App
+      link: https://bwhbioinfo.shinyapps.io/powerEQTL/
+  image: publication/thumbnail/powereqtl.png
+- id: pubmed:33969380
+  title: Review of multi-omics data resources and integrative analysis for human brain
+    disorders.
+  authors:
+  - Xianjun Dong
+  - Chunyu Liu
+  - Mikhail Dozmorov
+  publisher: Briefings in functional genomics
+  date: '2021-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33969380
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33960523
+  title: 'Accelerating Medicines Partnership: Parkinson''s Disease. Genetic Resource.'
+  authors:
+  - Hirotaka Iwaki
+  - Hampton L Leonard
+  - Mary B Makarious
+  - Matt Bookman
+  - Barry Landin
+  - David Vismer
+  - Bradford Casey
+  - J Raphael Gibbs
+  - Dena G Hernandez
+  - Cornelis Blauwendraat
+  - Daniel Vitale
+  - Yeajin Song
+  - Dinesh Kumar
+  - Clifton L Dalgard
+  - Mahdiar Sadeghi
+  - Xianjun Dong
+  - Leonie Misquitta
+  - Sonja W Scholz
+  - Clemens R Scherzer
+  - Mike A Nalls
+  - Shameek Biswas
+  - Andrew B Singleton
+  publisher: 'Movement disorders : official journal of the Movement Disorder Society'
+  date: '2021-05-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33960523
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33958783
+  title: Genome-wide survival study identifies a novel synaptic locus and polygenic
+    score for cognitive progression in Parkinson's disease.
+  authors:
+  - Ganqiang Liu
+  - Jiajie Peng
+  - Zhixiang Liao
+  - Joseph J Locascio
+  - Jean-Christophe Corvol
+  - Frank Zhu
+  - Xianjun Dong
+  - "Jodi Maple-Gr\xF8dem"
+  - Meghan C Campbell
+  - Alexis Elbaz
+  - Suzanne Lesage
+  - Alexis Brice
+  - Graziella Mangone
+  - John H Growdon
+  - Albert Y Hung
+  - Michael A Schwarzschild
+  - Michael T Hayes
+  - Anne-Marie Wills
+  - Todd M Herrington
+  - Bernard Ravina
+  - Ira Shoulson
+  - Pille Taba
+  - "Sulev K\xF5ks"
+  - Thomas G Beach
+  - Florence Cormier-Dequaire
+  - Guido Alves
+  - "Ole-Bj\xF8rn Tysnes"
+  - Joel S Perlmutter
+  - Peter Heutink
+  - Sami S Amr
+  - Jacobus J van Hilten
+  - Meike Kasten
+  - Brit Mollenhauer
+  - Claudia Trenkwalder
+  - Christine Klein
+  - Roger A Barker
+  - Caroline H Williams-Gray
+  - Johan Marinus
+  - Clemens R Scherzer
+  publisher: Nature genetics
+  date: '2021-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33958783
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33884653
+  title: 'Genetic Modifiers of Age at Onset for Parkinson''s Disease in Asians: A
+    Genome-Wide Association Study.'
+  authors:
+  - Chunyu Li
+  - Ruwei Ou
+  - Yongping Chen
+  - Xiaojing Gu
+  - Qianqian Wei
+  - Bei Cao
+  - Lingyu Zhang
+  - Yanbing Hou
+  - Kuncheng Liu
+  - Xueping Chen
+  - Wei Song
+  - Bi Zhao
+  - Ying Wu
+  - Tao Li
+  - Xianjun Dong
+  - Huifang Shang
+  publisher: 'Movement disorders : official journal of the Movement Disorder Society'
+  date: '2021-04-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33884653
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33432243
+  title: 'Exosome detection via the ultrafast-isolation system: EXODUS.'
+  authors:
+  - Yuchao Chen
+  - Qingfu Zhu
+  - Liming Cheng
+  - Yong Wang
+  - Meng Li
+  - Qinsi Yang
+  - Liang Hu
+  - Doudou Lou
+  - Jiaoyuan Li
+  - Xianjun Dong
+  - Luke P Lee
+  - Fei Liu
+  publisher: Nature methods
+  date: '2021-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33432243
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+  image: publication/thumbnail/exodus.png
+- id: pubmed:32926651
+  title: High-resolution analysis of differential gene expression during skeletal
+    muscle atrophy and programmed cell death.
+  authors:
+  - Junko Tsuji
+  - Travis Thomson
+  - Elizabeth Chan
+  - Christine K Brown
+  - Julia Oppenheimer
+  - Carol Bigelow
+  - Xianjun Dong
+  - William E Theurkauf
+  - Zhiping Weng
+  - Lawrence M Schwartz
+  publisher: Physiological genomics
+  date: '2020-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32926651
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30482917
+  title: 'Publisher Correction: Enhancers active in dopamine neurons are a primary
+    link between genetic variation and neuropsychiatric disease.'
+  authors:
+  - Xianjun Dong
+  - Zhixiang Liao
+  - David Gritsch
+  - Yavor Hadzhiev
+  - Yunfei Bai
+  - Joseph J Locascio
+  - Boris Guennewig
+  - Ganqiang Liu
+  - Cornelis Blauwendraat
+  - Tao Wang
+  - Charles H Adler
+  - John C Hedreen
+  - Richard L M Faull
+  - Matthew P Frosch
+  - Peter T Nelson
+  - Patrizia Rizzu
+  - Antony A Cooper
+  - Peter Heutink
+  - Thomas G Beach
+  - John S Mattick
+  - "Ferenc M\xFCller"
+  - Clemens R Scherzer
+  publisher: Nature neuroscience
+  date: '2019-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30482917
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30224808
+  title: Enhancers active in dopamine neurons are a primary link between genetic variation
+    and neuropsychiatric disease.
+  authors:
+  - Xianjun Dong
+  - Zhixiang Liao
+  - David Gritsch
+  - Yavor Hadzhiev
+  - Yunfei Bai
+  - Joseph J Locascio
+  - Boris Guennewig
+  - Ganqiang Liu
+  - Cornelis Blauwendraat
+  - Tao Wang
+  - Charles H Adler
+  - John C Hedreen
+  - Richard L M Faull
+  - Matthew P Frosch
+  - Peter T Nelson
+  - Patrizia Rizzu
+  - Antony A Cooper
+  - Peter Heutink
+  - Thomas G Beach
+  - John S Mattick
+  - "Ferenc M\xFCller"
+  - Clemens R Scherzer
+  publisher: Nature neuroscience
+  date: '2018-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30224808
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+  image: publication/thumbnail/eRNA.png
+  buttons:
+    - type: source
+      text: Github
+      link: https://github.com/sterding/BRAINcode
+    - type: website
+      text: BRAINcode website
+      link: http://www.humanbraincode.org
+- id: pubmed:28860381
+  title: "\u03B22-Adrenoreceptor is a regulator of the \u03B1-synuclein gene driving\
+    \ risk of Parkinson's disease."
+  authors:
+  - Shuchi Mittal
+  - "Kjetil Bj\xF8rnevik"
+  - Doo Soon Im
+  - Adrian Flierl
+  - Xianjun Dong
+  - Joseph J Locascio
+  - Kristine M Abo
+  - Elizabeth Long
+  - Ming Jin
+  - Bing Xu
+  - Yang K Xiang
+  - Jean-Christophe Rochet
+  - Anders Engeland
+  - Patrizia Rizzu
+  - Peter Heutink
+  - Tim Bartels
+  - Dennis J Selkoe
+  - Barbara J Caldarone
+  - Marcie A Glicksman
+  - Vikram Khurana
+  - "Birgitt Sch\xFCle"
+  - David S Park
+  - Trond Riise
+  - Clemens R Scherzer
+  publisher: Science (New York, N.Y.)
+  date: '2017-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28860381
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26636336
+  title: The Role of H3K4me3 in Transcriptional Regulation Is Altered in Huntington's
+    Disease.
+  authors:
+  - Xianjun Dong
+  - Junko Tsuji
+  - Adam Labadorf
+  - Panos Roussos
+  - Jiang-Fan Chen
+  - Richard H Myers
+  - Schahram Akbarian
+  - Zhiping Weng
+  publisher: PloS one
+  date: '2015-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26636336
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26220939
+  title: "Association between \u03B1-synuclein blood transcripts and early, neuroimaging-supported\
+    \ Parkinson's disease."
+  authors:
+  - Joseph J Locascio
+  - Shirley Eberly
+  - Zhixiang Liao
+  - Ganqiang Liu
+  - Ashley N Hoesing
+  - Karen Duong
+  - Ana Trisini-Lipsanopoulos
+  - Kaltra Dhima
+  - Albert Y Hung
+  - Alice W Flaherty
+  - Michael A Schwarzschild
+  - Michael T Hayes
+  - Anne-Marie Wills
+  - U Shivraj Sohur
+  - Nicte I Mejia
+  - Dennis J Selkoe
+  - David Oakes
+  - Ira Shoulson
+  - Xianjun Dong
+  - Ken Marek
+  - Bin Zheng
+  - Adrian Ivinson
+  - Bradley T Hyman
+  - John H Growdon
+  - Lewis R Sudarsky
+  - Michael G Schlossmacher
+  - Bernard Ravina
+  - Clemens R Scherzer
+  publisher: 'Brain : a journal of neurology'
+  date: '2015-07-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26220939
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25480889
+  title: Epigenetic dysregulation of hairy and enhancer of split 4 (HES4) is associated
+    with striatal degeneration in postmortem Huntington brains.
+  authors:
+  - Guang Bai
+  - Iris Cheung
+  - Hennady P Shulha
+  - Joana E Coelho
+  - Ping Li
+  - Xianjun Dong
+  - Mira Jakovcevski
+  - Yumei Wang
+  - Anastasia Grigorenko
+  - Yan Jiang
+  - Andrew Hoss
+  - Krupal Patel
+  - Ming Zheng
+  - Evgeny Rogaev
+  - Richard H Myers
+  - Zhiping Weng
+  - Schahram Akbarian
+  - Jiang-Fan Chen
+  publisher: Human molecular genetics
+  date: '2014-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25480889
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24586208
+  title: MicroRNAs located in the Hox gene clusters are implicated in huntington's
+    disease pathogenesis.
+  authors:
+  - Andrew G Hoss
+  - Vinay K Kartha
+  - Xianjun Dong
+  - Jeanne C Latourelle
+  - Alexandra Dumitriu
+  - Tiffany C Hadzi
+  - Marcy E Macdonald
+  - James F Gusella
+  - Schahram Akbarian
+  - Jiang-Fan Chen
+  - Zhiping Weng
+  - Richard H Myers
+  publisher: PLoS genetics
+  date: '2014-02-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24586208
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:24531765
+  title: Two independent transcription initiation codes overlap on vertebrate core
+    promoters.
+  authors:
+  - Vanja Haberle
+  - Nan Li
+  - Yavor Hadzhiev
+  - Charles Plessy
+  - Christopher Previti
+  - Chirag Nepal
+  - Jochen Gehrig
+  - Xianjun Dong
+  - Altuna Akalin
+  - Ana Maria Suzuki
+  - Wilfred F J van IJcken
+  - Olivier Armant
+  - Marco Ferg
+  - "Uwe Str\xE4hle"
+  - Piero Carninci
+  - "Ferenc M\xFCller"
+  - Boris Lenhard
+  publisher: Nature
+  date: '2014-02-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24531765
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23566087
+  title: The correlation between histone modifications and gene expression.
+  authors:
+  - Xianjun Dong
+  - Zhiping Weng
+  publisher: Epigenomics
+  date: '2013-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23566087
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23523368
+  title: An ancient transcription factor initiates the burst of piRNA production during
+    early meiosis in mouse testes.
+  authors:
+  - Xin Zhiguo Li
+  - Christian K Roy
+  - Xianjun Dong
+  - Ewelina Bolcun-Filas
+  - Jie Wang
+  - Bo W Han
+  - Jia Xu
+  - Melissa J Moore
+  - John C Schimenti
+  - Zhiping Weng
+  - Phillip D Zamore
+  publisher: Molecular cell
+  date: '2013-03-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23523368
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23235446
+  title: Ammonia sensing behaviors of TiO2-PANI/PA6 composite nanofibers.
+  authors:
+  - Qingqing Wang
+  - Xianjun Dong
+  - Zengyuan Pang
+  - Yuanzhi Du
+  - Xin Xia
+  - Qufu Wei
+  - Fenglin Huang
+  publisher: Sensors (Basel, Switzerland)
+  date: '2012-12-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23235446
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23203885
+  title: 'Factorbook.org: a Wiki-based database for transcription factor-binding data
+    generated by the ENCODE consortium.'
+  authors:
+  - Jie Wang
+  - Jiali Zhuang
+  - Sowmya Iyer
+  - Xin-Ying Lin
+  - Melissa C Greven
+  - Bong-Hyun Kim
+  - Jill Moore
+  - Brian G Pierce
+  - Xianjun Dong
+  - Daniel Virgil
+  - Ewan Birney
+  - Jui-Hung Hung
+  - Zhiping Weng
+  publisher: Nucleic acids research
+  date: '2012-11-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23203885
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22955990
+  title: Sequence features and chromatin structure around the genomic regions bound
+    by 119 human transcription factors.
+  authors:
+  - Jie Wang
+  - Jiali Zhuang
+  - Sowmya Iyer
+  - XinYing Lin
+  - Troy W Whitfield
+  - Melissa C Greven
+  - Brian G Pierce
+  - Xianjun Dong
+  - Anshul Kundaje
+  - Yong Cheng
+  - Oliver J Rando
+  - Ewan Birney
+  - Richard M Myers
+  - William S Noble
+  - Michael Snyder
+  - Zhiping Weng
+  publisher: Genome research
+  date: '2012-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22955990
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22955978
+  title: Understanding transcriptional regulation by integrative analysis of transcription
+    factor binding data.
+  authors:
+  - Chao Cheng
+  - Roger Alexander
+  - Renqiang Min
+  - Jing Leng
+  - Kevin Y Yip
+  - Joel Rozowsky
+  - Koon-Kiu Yan
+  - Xianjun Dong
+  - Sarah Djebali
+  - Yijun Ruan
+  - Carrie A Davis
+  - Piero Carninci
+  - Timo Lassman
+  - Thomas R Gingeras
+  - "Roderic Guig\xF3"
+  - Ewan Birney
+  - Zhiping Weng
+  - Michael Snyder
+  - Mark Gerstein
+  publisher: Genome research
+  date: '2012-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22955978
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22950368
+  title: Modeling gene expression using chromatin features in various cellular contexts.
+  authors:
+  - Xianjun Dong
+  - Melissa C Greven
+  - Anshul Kundaje
+  - Sarah Djebali
+  - James B Brown
+  - Chao Cheng
+  - Thomas R Gingeras
+  - Mark Gerstein
+  - "Roderic Guig\xF3"
+  - Ewan Birney
+  - Zhiping Weng
+  publisher: Genome biology
+  date: '2012-06-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22950368
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22206586
+  title: Making enhancers from spare parts of the genome.
+  authors:
+  - David Fredman
+  - Xianjun Dong
+  - Boris Lenhard
+  publisher: Genome biology
+  date: '2011-12-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22206586
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22196727
+  title: Mbd3/NURD complex regulates expression of 5-hydroxymethylcytosine marked
+    genes in embryonic stem cells.
+  authors:
+  - Ozlem Yildirim
+  - Ruowang Li
+  - Jui-Hung Hung
+  - Poshen B Chen
+  - Xianjun Dong
+  - Ly-Sha Ee
+  - Zhiping Weng
+  - Oliver J Rando
+  - Thomas G Fazzio
+  publisher: Cell
+  date: '2011-12-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22196727
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:20122234
+  title: Translog, a web browser for studying the expression divergence of homologous
+    genes.
+  authors:
+  - Xianjun Dong
+  - Altuna Akalin
+  - Yogita Sharma
+  - Boris Lenhard
+  publisher: BMC bioinformatics
+  date: '2010-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20122234
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19969543
+  title: Exonic remnants of whole-genome duplication reveal cis-regulatory function
+    of coding exons.
+  authors:
+  - Xianjun Dong
+  - Pavla Navratilova
+  - David Fredman
+  - "\xD8yvind Drivenes"
+  - Thomas S Becker
+  - Boris Lenhard
+  publisher: Nucleic acids research
+  date: '2009-12-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19969543
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+  image: publication/thumbnail/GRB.png
+  description: We for the first time identified a set of human exons that can have both functions of coding protein and being enhancers.
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: pubmed:19698106
+  title: 'Synorth: exploring the evolution of synteny and long-range regulatory interactions
+    in vertebrate genomes.'
+  authors:
+  - Xianjun Dong
+  - David Fredman
+  - Boris Lenhard
+  publisher: Genome biology
+  date: '2009-08-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19698106
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:19374772
+  title: Transcriptional features of genomic regulatory blocks.
+  authors:
+  - Altuna Akalin
+  - David Fredman
+  - Erik Arner
+  - Xianjun Dong
+  - Jan Christian Bryne
+  - Harukazu Suzuki
+  - Carsten O Daub
+  - Yoshihide Hayashizaki
+  - Boris Lenhard
+  publisher: Genome biology
+  date: '2009-04-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19374772
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:18424774
+  title: Differential evolution of the 13 Atlantic salmon Hox clusters.
+  authors:
+  - Sutada Mungpakdee
+  - Hee-Chan Seo
+  - Anna Rita Angotzi
+  - Xianjun Dong
+  - Altuna Akalin
+  - Daniel Chourrout
+  publisher: Molecular biology and evolution
+  date: '2008-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18424774
+  term: Dong, Xianjun[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22955616
+  title: An integrated encyclopedia of DNA elements in the human genome.
+  authors: [ENCODE Consortium]
+  publisher: Nature
+  date: '2012-09-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22955616
+  image: publication/thumbnail/encode.jpeg

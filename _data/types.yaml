@@ -3,28 +3,36 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  #icon: fa-solid fa-microscope
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  #icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  #icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+researchassociate:
+  #icon: fa-solid fa-code
+  description: Research Associate
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
+researchassistant:
+  #icon: fa-solid fa-code
+  description: Research Assistant
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+scientist:
+  #icon: fa-solid fa-code
+  description: Research Scientist
+
+engineer:
+  #icon: fa-solid fa-code
+  description: Bioinformatics Engineer
+
+trainee:
+  #icon: fa-solid fa-code
+  description: Research Trainee
 
 # general
 
