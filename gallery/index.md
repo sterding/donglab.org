@@ -10,7 +10,7 @@ nav:
 
 {%
   include figure.html
-  image="images/group-photos/IMG_4458.jpeg"
+  image="images/group-photos/IMG_4458.jpg"
   caption="Team gathering at Fuji Assembly, 2023"
   width="1200px"
 %}
