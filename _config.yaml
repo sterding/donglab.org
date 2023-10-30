@@ -4,6 +4,8 @@ subtitle: at Brigham and Women's Hospital, Harvard Medical School
 description: We use computational genomics methods to study transcriptional regulation and its role in neurological diseases.
 header: images/background.jpg
 footer: images/background.jpg
+header-dark: true
+footer-dark: true
 
 # site social media and other links
 links:
