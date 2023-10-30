@@ -13,8 +13,8 @@ We are intersted in applying and developing computational methods and latest gen
 
 ## Parkinson Brain Atlas: Deconstructing proximal disease mechanisms across cells, space, and progression
 
-{% capture content %} {% include feature.html image="images/project_PD5D.jpg" width="50%" %} {% endcapture %}
-{% include float.html content=content flip=false%}
+{% capture content %} {% include feature.html image="images/project_PD5D.jpg" width="100%" %} {% endcapture %}
+{% include float.html content=content flip=false %}
 ​Genome-wide association studies (GWAS) have unequivocally linked thousands of noncoding variants to Parkinson’s disease (PD). Why have these breakthroughs not uncovered the mechanism(s) of common, genetically complex PD? We do not know how GWAS variants cause neurodegeneration, which variants are causal, and why they impair some brain cells but not others. Overwhelming evidence shows that *cis*-regulation of transcription is the most likely mediator of disease risk, and that it is finely tuned by cellular and dynamic context. Here we will pinpoint the causal gene(s) through which GWAS loci function in spatially barcoded, single brain cells and, dynamically, over pseudotime using single-nucleus expression Quantitative Trait Locus (eQTL) analysis. Putative causal genes will be tested mechanistically in cell- and stage-specific analyses in vivo in Drosophila avatars and in vitro in human pluripotent stem cells. Moreover, we will identify the corresponding causal GWAS variants through allele-specific expression and CRISPR/Cas9-variant editing in single brain cells. This collaborative and highly integrated project will begin to reveal the complex human genetics of PD through a dynamic, multi-dimensional view of proximal cellular mechanisms across brain cells, brain space, and disease stage.
 
 >**Funding: ASAP (PIs: Scherzer, Levin, Dong, Feany, Zhang), 2021-2024, $9M in total**
