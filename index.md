@@ -3,7 +3,7 @@
 
 # WHERE COMPUTER GEEKS HAVE A CRUSH ON THE HUMAN GENOME
 
-The Dong Lab is a team of researchers at Harvard Medical School (soon will move to Yale School of Medicine) dedicated to answering important questions in genome biology and neurology with computation. We focus on studying transcriptional regulation and non-coding RNAs and their roles in neurodegenerative diseases through developing computational methods to integrate and analyze multi-omics and clinical data. 
+The Dong Lab is a team of researchers at [Brigham and Women's Hospital](https://www.brighamandwomens.org) and [Harvard Medical School](https://hms.harvard.edu) (soon will move to [Yale School of Medicine](https://medicine.yale.edu)) dedicated to answering important questions in genome biology and neurology with computation. We focus on studying transcriptional regulation and non-coding RNAs and their roles in neurodegenerative diseases through developing computational methods to integrate and analyze multi-omics and clinical data. 
 
 {%
   include figure.html
