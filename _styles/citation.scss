@@ -84,8 +84,10 @@ $wrap: 800px;
   margin: 0;
 }
 
-.citation-details {
+.citation-publisher {
   text-transform: capitalize;
+  font-weight: bold;
+  font-style: italic;
 }
 
 @media (max-width: $wrap) {

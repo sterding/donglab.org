@@ -47,7 +47,7 @@
         citation.authors
         | join: ","
         | split: ","
-        | array_carve: 50 
+        | array_carve: 50
         | join: ", "
         | markdownify
         | remove: "<p>"
@@ -57,11 +57,9 @@
     </div>
 
     <div class="citation-details">
-      {{ citation.publisher 
-        | markdownify
-        | remove: "<p>"
-        | remove: "</p>"
-        | default: "[no publisher info]" }} 
+      <span class="citation-publisher">
+      {{ citation.publisher | default: "[no publisher info]" }} 
+      </span>
       &nbsp; · &nbsp;
       {{ citation.date | default: "[no date info]" | date: "%d %b %Y" }}
       &nbsp; · &nbsp;
