@@ -156,6 +156,11 @@ error:
 
 # publications
 
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: PDF
+  tooltip: PDF
+  
 paper:
   icon: fa-solid fa-scroll
   text: Paper

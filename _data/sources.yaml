@@ -194,8 +194,7 @@
   - Jianzhong Su
   - Luke P Lee
   - Fei Liu
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
+  publisher: PNAS
   date: '2021-10-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34663731
   term: Dong, Xianjun[Author]
@@ -905,3 +904,13 @@
   date: '2012-09-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22955616
   image: publication/thumbnail/encode.jpeg
+- id: pubmed:21526222
+  title: A user's guide to the encyclopedia of DNA elements (ENCODE)
+- id: doi:10.1109/mpot.2008.931159
+  title: The brainstorm
+  image: publication/thumbnail/brainstorm.gif
+  buttons:
+    - type: pdf
+      text: PDF
+      link: publication/pdf/The_brainstorm_Essay.pdf
+- id: doi:10.1109/ICBBE.2007.84

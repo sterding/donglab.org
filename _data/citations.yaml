@@ -195,8 +195,7 @@
   - Jianzhong Su
   - Luke P Lee
   - Fei Liu
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
+  publisher: PNAS
   date: '2021-10-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34663731
   term: Dong, Xianjun[Author]
@@ -905,5 +904,41 @@
   date: '2012-09-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/22955616
   image: publication/thumbnail/encode.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:21526222
+  title: A user's guide to the encyclopedia of DNA elements (ENCODE)
+  authors: []
+  publisher: PLoS biology
+  date: '2011-04-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21526222
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/mpot.2008.931159
+  title: The brainstorm
+  authors:
+  - Xianjun Dong
+  publisher: IEEE Potentials
+  date: '2009-01-01'
+  link: https://doi.org/fgr2x8
+  image: publication/thumbnail/brainstorm.gif
+  buttons:
+  - type: pdf
+    text: PDF
+    link: publication/pdf/The_brainstorm_Essay.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICBBE.2007.84
+  title: 'gWord: A Tool for Genome-Wide Word Search and Count'
+  authors:
+  - Jianming Xie
+  - Xiao Sun
+  - Zhiyuan Lu
+  - Weiyan Xue
+  - Xianjun Dong
+  - Zuhong Lu
+  publisher: 2007 1st International Conference on Bioinformatics and Biomedical Engineering
+  date: '2007-07-01'
+  link: https://doi.org/cjdnw6
   plugin: sources.py
   file: sources.yaml
