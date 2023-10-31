@@ -81,15 +81,15 @@ In this collaborative project with Dr Sun's team at John Hopkin University, we a
 Human neuronal genes tend to have *very* long introns. Why? What's the unknown role of long intron? We try to address it from various angles, such as evolution, transcription, and gene regulation etc.
 {% endcapture %}
 {% capture col2 %}
-### Bored with gene expression?
+### More to life than gene expression
 {% include figure.html image="images/project_RNAprocess.jpg" %}
-Other than gene expression, many other RNA processes such as splicing, polyadenylation, RNA modification, editing etc. may play critical roles in diseases. We explore them with RNAseq data.
+Other RNA processing than gene expression may play critical roles in brain diseases, such as splicing, polyadenylation, RNA modification, editing etc. We explore them in both bulk and single-cell RNAseq data.
 {% endcapture %}
 
 {% capture col3 %}
-### RNA transportation to synapse
+### RNAs transported to synapse
 {% include figure.html image="images/project_RNAsynapse.jpg" %}
-Neurons transport mRNA to synapse for local translation. But what about those non-coding RNAs such as circRNAs enriched in synapse? How did they get there? What do they do there? 
+Neuronal mRNAs are transported to synapse for local translation. But what about those non-coding RNAs such as circRNAs enriched in synapse? How did they get there? What do they do there? 
 {% endcapture %}
 
 {%
