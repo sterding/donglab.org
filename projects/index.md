@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Projects
 nav:
   order: 1
   tooltip: Research, Projects
@@ -77,9 +77,10 @@ In this collaborative project with Dr Sun's team at John Hopkin University, we a
 
 {% capture col1 %}
 ### Intron size matters! 
-{% include figure.html image="images/project_intronsize.jpg"%}
+{% include figure.html image="images/project_intronsize.png"%}
 Human neuronal genes tend to have *very* long introns. Why? What's the unknown role of long intron? We try to address it from various angles, such as evolution, transcription, and gene regulation etc.
 {% endcapture %}
+
 {% capture col2 %}
 ### More to life than gene expression
 {% include figure.html image="images/project_RNAprocess.jpg" %}
@@ -92,12 +93,35 @@ Other RNA processing than gene expression may play critical roles in brain disea
 Neuronal mRNAs are transported to synapse for local translation. But what about those non-coding RNAs such as circRNAs enriched in synapse? How did they get there? What do they do there? 
 {% endcapture %}
 
+{% capture col4 %}
+### Intron size matters! 
+{% include figure.html image="images/project_intronsize.png"%}
+Human neuronal genes tend to have *very* long introns. Why? What's the unknown role of long intron? We try to address it from various angles, such as evolution, transcription, and gene regulation etc.
+{% endcapture %}
+
+{% capture col5 %}
+### More to life than gene expression
+{% include figure.html image="images/project_RNAprocess.jpg" %}
+Other RNA processing than gene expression may play critical roles in brain diseases, such as splicing, polyadenylation, RNA modification, editing etc. We explore them in both bulk and single-cell RNAseq data.
+{% endcapture %}
+
+{% capture col6 %}
+### RNAs transported to synapse
+{% include figure.html image="images/project_RNAsynapse.jpg" %}
+Neuronal mRNAs are transported to synapse for local translation. But what about those non-coding RNAs such as circRNAs enriched in synapse? How did they get there? What do they do there? 
+{% endcapture %}
+
 {%
   include cols.html
-  col1=col1
-  col2=col2
+  col1=col2
+  col2=col1
   col3=col3
 %}
 
-
-
+<!-- {%
+  include cols.html
+  col1=col4
+  col2=col5
+  col3=col6
+%}
+ -->

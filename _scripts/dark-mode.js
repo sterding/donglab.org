@@ -8,8 +8,8 @@
   const saveDark = (value) => window.localStorage.setItem("dark-mode", value);
 
   // immediately load saved mode before page renders
-  // document.documentElement.dataset.dark = loadDark();
-  document.documentElement.dataset.dark = window.localStorage.getItem("dark-mode") ?? true;
+   document.documentElement.dataset.dark = loadDark();
+  //document.documentElement.dataset.dark = window.localStorage.getItem("dark-mode") ?? true;
   
   const onLoad = () => {
     // update toggle button to match loaded mode
