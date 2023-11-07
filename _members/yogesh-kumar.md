@@ -1,6 +1,6 @@
 ---
 name: Yogesh Kumar, PhD
-image: images/headshots/yogesh.png
+image: images/headshots/yogesh.jpg
 role: scientist
 aliases:
     - Yogesh Kumar

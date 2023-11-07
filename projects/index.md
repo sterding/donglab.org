@@ -77,7 +77,7 @@ In this collaborative project with Dr Sun's team at John Hopkin University, we a
 
 {% capture col1 %}
 ### Intron size matters! 
-{% include figure.html image="images/project_intronsize.png"%}
+{% include figure.html image="images/project_intronsize.jpg"%}
 Human neuronal genes tend to have *very* long introns. Why? What's the unknown role of long intron? We try to address it from various angles, such as evolution, transcription, and gene regulation etc.
 {% endcapture %}
 
@@ -95,7 +95,7 @@ Neuronal mRNAs are transported to synapse for local translation. But what about 
 
 {% capture col4 %}
 ### Intron size matters! 
-{% include figure.html image="images/project_intronsize.png"%}
+{% include figure.html image="images/project_intronsize.jpg"%}
 Human neuronal genes tend to have *very* long introns. Why? What's the unknown role of long intron? We try to address it from various angles, such as evolution, transcription, and gene regulation etc.
 {% endcapture %}
 

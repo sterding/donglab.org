@@ -44,7 +44,7 @@ Our lab is currently located at Departmenet of Neurology at Brigham and Women's 
 
 {%
   include figure.html
-  image="images/yale-campus2.png"
+  image="images/yale-campus2.jpg"
   caption="Yale campus"
 %}
 
