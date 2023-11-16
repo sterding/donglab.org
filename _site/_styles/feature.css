@@ -8,7 +8,7 @@
 
 .feature-image {
   flex-shrink: 0;
-  width: 100%;
+  width: 25%;
   aspect-ratio: auto;
   border-radius: var(--rounded);
   overflow: hidden;

@@ -13,7 +13,8 @@ We are intersted in applying and developing computational methods and latest gen
 
 ## Parkinson Brain Atlas: Deconstructing proximal disease mechanisms across cells, space, and progression
 
-{% capture content %} {% include feature.html image="images/project_PD5D.jpg" width="100%" %} {% endcapture %}
+{% capture content %} 
+{% include figure.html image="images/project_PD5D.jpg" width="350px" %} {% endcapture %}
 {% include float.html content=content flip=false %}
 ​Genome-wide association studies (GWAS) have unequivocally linked thousands of noncoding variants to Parkinson’s disease (PD). Why have these breakthroughs not uncovered the mechanism(s) of common, genetically complex PD? We do not know how GWAS variants cause neurodegeneration, which variants are causal, and why they impair some brain cells but not others. Overwhelming evidence shows that *cis*-regulation of transcription is the most likely mediator of disease risk, and that it is finely tuned by cellular and dynamic context. Here we will pinpoint the causal gene(s) through which GWAS loci function in spatially barcoded, single brain cells and, dynamically, over pseudotime using single-nucleus expression Quantitative Trait Locus (eQTL) analysis. Putative causal genes will be tested mechanistically in cell- and stage-specific analyses in vivo in Drosophila avatars and in vitro in human pluripotent stem cells. Moreover, we will identify the corresponding causal GWAS variants through allele-specific expression and CRISPR/Cas9-variant editing in single brain cells. This collaborative and highly integrated project will begin to reveal the complex human genetics of PD through a dynamic, multi-dimensional view of proximal cellular mechanisms across brain cells, brain space, and disease stage.
 
@@ -28,8 +29,7 @@ We are intersted in applying and developing computational methods and latest gen
 
 ## PDMAP: Systematic study of extracellular vesicles and their integrative analysis with Parkinson’s organoids
 
-{% capture content %} {% include feature.html image="images/project_PDMAP.jpg" %} {% endcapture %}
-​
+{% capture content %} {% include figure.html image="images/project_PDMAP.jpg" width="250px" %} {% endcapture %}
 {% include float.html content=content flip=true %}
 It has been 25 years since the first genetic cause of PD was identified, and yet there is still no effective treatment for the disease. One of the hinders we think is the lack of models that assess early PD pathogenesis and therapy responses in its real neurophysiological environment. This provides a significant bottleneck in our ability to make progress in this disease.
 Two lines of recent evidence motivate us to study PD pathogenesis in a real neurophysiological environment: (1) Human neuroimaging data and animal models both showed that synaptic disruption proceeds neuronal death, making the case that PD is a synaptopathy. (2) Many novel, regulatory, non-coding RNAs show linkage to PD pathogenesis. For instance, we found over 20,000 enhancer RNAs (or eRNAs) candidates in dopamine neurons of human post-mortem brains ([Dong et al. *Nature Neuroscience*, 2018](https://www.ncbi.nlm.nih.gov/pubmed/30224808)). They significantly co-localized with PD risk variants. The other class of novel RNAs is circular RNAs (circRNAs), which are predominantly enriched in the brain, highly specific to the synapse, and ultra-stable (e.g., 10x longer half-life than linear RNAs). We identified >11,000 circRNAs actively expressed in the dopamine neurons, many of which are significantly associated with PD pathology ([Dong et al. *Nature Communications*, 2023](https://www.ncbi.nlm.nih.gov/pubmed/37723137)). More importantly, circRNAs can form a regulatory network with lncRNAs and miRNAs, and can be wrapped into extracellular vesicles (EV), penetrating blood-brain barriers. Based on these, we hypothesize that regulatory RNAs incl. circRNAs, eRNAs, miRNAs, lncRNAs can be detected in EV and might play a role in the synaptic dysfunction in early PD pathogenesis.
@@ -45,7 +45,7 @@ In this study, we teamed up with Dr. Luke Lee at Harvard Medical School, and com
 
 ## Harvard PRECISION Human Pain Center - Data Core
 
-{% capture content %} {% include feature.html image="images/project_U19.jpg" width="50%" %} {% endcapture %}
+{% capture content %} {% include figure.html image="images/project_U19.jpg" width="250px" %} {% endcapture %}
 {% include float.html content=content flip=false%}
 Chronic pain affects >25 million Americans per year, with enormous impacts on both quality of life and productivity. Despite advances in our understanding of nociception in animal models, new and effective treatments for patients with chronic pain have been lacking. The poor translation between mouse and human pain targets has highlighted limitations of animal models of pain. Recent advances in single-cell genomics and physiology directly in human tissue position pain researchers to make important new advances with improved opportunities for clinical translation. The [Harvard PRECISION Human Pain Center](https://healpain.bwh.harvard.edu) proposes to leverage state-of-the-art single-cell technologies to characterize human nociceptor subtypes and how their gene expression patterns vary across diverse populations (Project 1) as well as in chronic pain conditions that clearly localize to these cells – chronic phantom limb pain associated with painful neuromas (Project 2). The Projects will generate a wealth of data for the scientific community by closely integrating with 5 Cores tasked with 1) procuring high-quality human pain-related tissues following strict regulatory practices, 2) offering the latest single-cell gene multi-omic technologies, 3) performing advanced single-cell spatial transcriptomic analysis, 4) managing, integrating, and distributing all of the data, and 5) administrating and connecting to Center the other PRECISION Human Pain Network Centers. As part of the [NIH HEAL Initiative](https://heal.nih.gov), the data generated by our Center will contribute to this broader [PRECISION Human Pain Network](https://heal.nih.gov/news/events/PRECISIONHumanPainNetwork) and to help identify and prioritizate of novel pain therapeutic targets for future investigation.
 
@@ -59,7 +59,7 @@ As one of the key components of the Center, the Data Core aims to act as a data 
 
 ## LINE1 RNA dysregulation in ALS/FTD
 
-{% capture content %} {% include feature.html image="images/project_ASL.jpg" width="50%" %} {% endcapture %}
+{% capture content %} {% include figure.html image="images/project_ASL.jpg" width="450px" %} {% endcapture %}
 {% include float.html content=content flip=true%}
 Dysfunction of RNA metabolism has emerged to play crucial roles in multiple neurodegeneration diseases, including frontal temporal dementia (FTD) and amyotrophic lateral sclerosis (ALS). The key pathologic hallmark of both diseases is the nuclear clearance and cytosolic aggregation of the RNA binding protein (RBP) TAR DNA binding protein-43 (TDP-43), which is found in up to 50% FTD patients and 97% ALS patients. In addition, TDP-43 proteinopathy also occurs in 20-60% Alzheimer’s Disease (AD) cases. TDP-43 has multiple functions in mRNA processing. It is also implicated in regulating retrotransposon activation, but the molecular mechanism is not resolved.
 
