@@ -1,3 +1,18 @@
+- id: pubmed:37930031
+  title: 'FLED: a full-length eccDNA detector for long-reads sequencing data'
+  authors:
+  - Fuyu Li
+  - Wenlong Ming
+  - Wenxiang Lu
+  - Ying Wang
+  - Xiaohan Li
+  - "**Xianjun Dong<sup>+</sup>**"
+  - Yunfei Bai<sup>+</sup>
+  publisher: Briefings in bioinformatics
+  date: '2023-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37930031
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:37723137
   title: Circular RNAs in the human brain are tailored to neuron identity and neuropsychiatric
     disease.
@@ -224,7 +239,7 @@
   - Jue-Sheng Ong
   - Clemens R Scherzer
   - "Miguel E Renter\xEDa"
-  - "**Xianjun Dong**"
+  - "**Xianjun Dong<sup>+</sup>**"
   publisher: Scientific reports
   date: '2021-07-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34234189
@@ -235,12 +250,12 @@
   title: 'powerEQTL: an R package and shiny application for sample size and power
     calculation of bulk tissue and single-cell eQTL analysis.'
   authors:
-  - "**Xianjun Dong**"
+  - "**Xianjun Dong<sup>+</sup>**"
   - Xiaoqi Li
   - Tzuu-Wang Chang
   - Clemens R Scherzer
   - Scott T Weiss
-  - Weiliang Qiu
+  - Weiliang Qiu<sup>+</sup>
   publisher: Bioinformatics
   date: '2021-11-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34009297
