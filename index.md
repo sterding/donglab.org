@@ -55,8 +55,8 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 {%
   include feature.html
   image="images/group-photos/IMG_9606.jpg"
-  link="projects"
-  title="Our Projects"
+  link="team"
+  title="Our Team"
   text=text
   flip=true
 %}
