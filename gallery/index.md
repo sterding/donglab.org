@@ -42,3 +42,10 @@ nav:
   caption="Our first visit to the new office at Assembly Row, 2023"
   width="1200px"
 %}
+
+{%
+  include figure.html
+  image="images/group-photos/IMG_4933.jpg"
+  caption="Our team with Dennis Selkoe at the ARCND holiday party, 2023"
+  width="1200px"
+%}
