@@ -61,3 +61,29 @@ We want to push the frontier of data science and train the next generation of da
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: trainee, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: manager, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: technician, group: alum" %}
+
+{% include section.html %}
+
+## Funding
+
+{% capture content %}
+[![American Parkinson's Disease Association](/images/team/apda-logo.png)](https://www.apdaparkinson.org)
+
+[![Aligning Science Across Parkinson’s](/images/team/ASAP-logo.png)](https://parkinsonsroadmap.org)
+
+[![Parkinson's Foundation](/images/team/pdf-logo.png)](https://www.parkinson.org/)
+
+[![National Institute of Neurological Disorders and Stroke](/images/team/ninds-logo.png)](https://www.ninds.nih.gov/)
+
+[![NIH Heal Initiative](/images/team/heal-logo.png)](https://heal.nih.gov)
+
+[![NIH Small Business Innovation Research](/images/team/seed-logo.png)](https://seed.nih.gov)
+
+[![Brigham Research Institute](/images/team/BRI-logo.png)](https://www.discoverbrigham.org/)
+
+[![Massachusetts Life Sciences Center](/images/team/MLSC-logo.jpeg)](https://www.masslifesciences.com)
+
+{% endcapture %}
+​
+{% include grid.html content=content %}
+
