@@ -154,6 +154,26 @@ error:
   icon: fa-solid fa-ban
   color: "#ef4444"
 
+award:
+  icon: fa-solid fa-award
+  color: "#ff2600"
+
+star:
+  icon: fa-solid fa-star
+  color: "#FFD43B"
+
+graduate:
+  icon: fa-solid fa-graduation-cap
+  color: "#942192"
+
+offer:
+  icon: fa-solid fa-envelope-open-text
+  color: "#942192"
+
+onboard:
+  icon: fa-solid fa-id-card-clip
+  color: "#63E6BE"
+
 # publications
 
 pdf:

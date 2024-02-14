@@ -61,4 +61,36 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
   flip=true
 %}
 
+{% include section.html %}
 
+## News
+
+{% capture news0 %}
+Congratulations to **Dr. Jie Yuan** that his abstract entitled _"The Parkinson's Cell Atlas: A spatial map of disease programs in human brains"_ has been selected for a platform oral presentation at the 2023 American Society of Human Genetics Annual Meeting in Washington, DC, from November 1-5! (8/2/2023)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
+{% capture news00 %}
+Welcome **Yuxuan Hu** joining the lab as a visiting student! (10/18/2023)
+{% endcapture %}
+{% include alert.html type="onboard" content=news00 %}
+
+{% capture news01 %}
+Welcome **Dr. Mingming Lu** joining the lab as a postdoc reserach fellow! (1/16/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news1 %}
+Congratulations to **Rosan Wang** for receiving a PhD offer from UMass Medical School! (2/3/2024)
+{% endcapture %}
+{% include alert.html type="offer" content=news1 %}
+
+{% capture news0 %}
+Congratulations to **Rosan Wang** that her work about _"Identifying enhancer RNAs in blood and their immunological role for Parkinson’s disease"_ was invited by FNIH to present at the Inaugural Accelerating Medicines Partnership® (AMP®) Program Symposium in Bethesda, Maryland, celebrating the AMP program’s 10th anniversary. Dr Dong will present the work on behalf of the team! (2/5/2024)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
+{% capture news2 %}
+Congratulations to **Lucy Tian** for receiving an offer from USC’s Computational Biology PhD program! (2/13/2024)
+{% endcapture %}
+{% include alert.html type="offer" content=news2 %}
