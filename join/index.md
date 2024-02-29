@@ -20,10 +20,10 @@ Do you have a computational background and a strong interest in human genomics? 
 **Your tasks**: By joining the bioinformatics team and working together with molecular biologists from our or collaborator's lab, the Postdoctoral Fellow will perform a variety of standard analysis, such as RNA-seq, ATAC-seq, various Quantitative Trait Locus (QTL), alternative splicing, polyadenylation, and advanced integrative analysis such as network and pathway analyses at a bulk, single-cell, or spatial level.
 
 Other responsibilities include:
-•	Develop and implement algorithms and statistical methods to analyze large-scale sequencing data at a bulk, single-cell, or spatial level
-•	Design and develop innovative data visualization methods to support genome analysis 
-•	Publish and present novel research findings in academic journals and conferences 
-•	Develop and maintain collaborations both within Harvard (and Yale) and also with outside researchers in academia and industry.
+-	Develop and implement algorithms and statistical methods to analyze large-scale sequencing data at a bulk, single-cell, or spatial level
+-	Design and develop innovative data visualization methods to support genome analysis 
+-	Publish and present novel research findings in academic journals and conferences 
+-	Develop and maintain collaborations both within Harvard (and Yale) and also with outside researchers in academia and industry.
 
 **Your qualifications**: Applicants are expected to have Ph. D. or equivalent doctoral degree in bioinformatics, computer science, genomics, physics, or statistics. Ideal applicants should have strong programming skills in (R & (Perl \| Python \| C \| C++ \| Matlab \| Java)) and good knowledge in algorithms and tools development. Experience in Unix shell scripting is a big plus. Prior experience in analyzing high-throughput sequencing data (RNA-seq, ATAC-seq, small RNA sequencing etc.) is preferred. Advanced usage of large biological repositories, such as UCSC Genome Browser, Ensembl is a plus. Knowledge of gene regulation is a plus. Experience in GWAS, TWAS, eQTL/pQTL/aQTL, allele-specific gene expression, and alternative splicing is a plus. Knowledge or experience in single-cell or spatial omics analysis is a plus. Excellent English communication skills are required. Prior experience in neurology or neurosciences is encouraged. Candidates must have a track record in publication (e.g. at least one first-author publication). Furthermore, the ability to work in a team and experience in the supervision of students is an asset.
 
@@ -35,10 +35,10 @@ We are also interested in studying EV biology and its implications for early dia
 **Your task**: By working with iPSC and sequencing core facilities in the department, the Postdoctoral Fellow will maintain the organoid lines and perform bulk, single-cell, and spatial omics sequencing experiments for EV and organoids. The fellow will also study EV biology in both brain and blood for biomarker and therapeutics purposes.
 
 Other responsibilities include:
-•	Design and perform various wet lab experiments (e.g. PCR, ELISA, imaging staining, drug treatment etc.)
-•	Assist and work with computational biologists to understand sequencing data analysis result
-•	Publish and present novel research findings in academic journals and conferences 
-•	Develop and maintain collaborations both within Harvard (and Yale) and also with outside researchers in academia and industry.
+-	Design and perform various wet lab experiments (e.g. PCR, ELISA, imaging staining, drug treatment etc.)
+-	Assist and work with computational biologists to understand sequencing data analysis result
+-	Publish and present novel research findings in academic journals and conferences 
+-	Develop and maintain collaborations both within Harvard (and Yale) and also with outside researchers in academia and industry.
 
 **Your qualifications**: Applicants are expected to have Ph. D. or equivalent doctoral degree in molecular biology, neuroscience, bioengineering, etc. Ideal applicants should have strong wet lab skills in molecular biology and good knowledge in iPSC or organoid development. Experience in brain organoids is a big plus. Prior experience in performing high-throughput sequencing experiments (RNA-seq, ATAC-seq, small RNA sequencing, etc.) is preferred. Knowledge of gene regulation and RNA biology is a plus. Knowledge or experience in single-cell or spatial omics experiments is a plus. Excellent English communication skills are required. Prior experience in neurology or neurosciences is encouraged. Candidates must have a track record in publication (e.g. at least one first-author publication). Furthermore, the ability to work in a team and experience in the supervision of students is an asset.
 
