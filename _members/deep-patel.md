@@ -1,7 +1,7 @@
 ---
 name: Deep Patel
 image: images/headshots/deep.jpg
-role: pi
+role: master
 aliases:
   - D. Patel
   - D Patel
