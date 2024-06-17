@@ -1,7 +1,7 @@
 ---
 name: Lucy Tian
 image: images/headshots/lucy.jpg
-role: researchassistant
+role: master
 aliases:
   - Lucy Tian
   - Xiaohe Tian
