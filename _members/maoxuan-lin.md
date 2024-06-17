@@ -2,6 +2,7 @@
 name: Maoxuan Lin, PhD
 image: images/headshots/maoxuan.jpg
 role: postdoc
+group: alum
 aliases:
   - M. Lin
   - Maoxuan Lin

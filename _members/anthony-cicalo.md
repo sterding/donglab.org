@@ -2,6 +2,7 @@
 name: Anthony Cicalo IV
 image: images/headshots/anthony.jpg
 role: engineer
+group: alum
 aliases:
     - Anthony Cicalo
 links:
