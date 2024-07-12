@@ -3,7 +3,7 @@
 
 # WHERE COMPUTER GEEKS HAVE A CRUSH ON THE HUMAN GENOME
 
-The Dong Lab is a team of researchers at [Brigham and Women's Hospital](https://www.brighamandwomens.org) and [Harvard Medical School](https://hms.harvard.edu) dedicated to answering important questions in genome biology and brain diseases with computation. We focus on studying transcriptional regulation and non-coding RNAs and their roles in neurodegenerative diseases through developing computational methods to integrate and analyze multi-omics and clinical data. 
+The Dong Lab is a team of researchers at Yale University dedicated to answering important questions in genome biology and brain diseases with both computational and experimental methods. We focus on studying transcriptional regulation and non-coding RNAs and their roles in neurodegenerative diseases through developing computational methods to integrate and analyze multi-omics and clinical data. 
 
 {%
   include figure.html
@@ -104,3 +104,13 @@ Congratulations to **Rosan Wang** and **Lucy Tian** for receiving offers from UC
 Congratulations to **Lucy Tian** for receiving a PhD offer from Cornell University! (2/28/2024)
 {% endcapture %}
 {% include alert.html type="offer" content=news2 %}
+
+{% capture news01 %}
+Welcome **Zehao Jin** from Tsinghua University joining the lab as a summer student! (7/1/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **Dr. Maria I. Olivero-Acosta** from Purdue University joining the lab as a postdoc reserach associate! (7/6/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}

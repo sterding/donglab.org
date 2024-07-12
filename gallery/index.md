@@ -49,3 +49,27 @@ nav:
   caption="Our team with Dennis Selkoe at the ARCND holiday party, 2023"
   width="1200px"
 %}
+
+{%
+  include figure.html
+  image="images/group-photos/IMG_8653.jpeg"
+  caption="First group visit to Yale (01/19/2024)"
+  width="1200px"
+%}
+
+{%
+  include figure.html
+  image="images/group-photos/IMG_5488.jpg"
+  caption="Group gathering, 2024"
+  width="1200px"
+%}
+
+
+{% capture content %}
+  {% include figure.html image="images/group-photos/IMG_7024.jpg" width="100%" %}
+  {% include figure.html image="images/group-photos/IMG_7020.jpg" width="100%" %}
+{% endcapture %}
+
+{% include grid.html content=content style="square" %}
+
+<figcaption class="figure-caption"> Lucy's master degree defense. Congrats, Lucy!! (05/11/2024) </figcaption>

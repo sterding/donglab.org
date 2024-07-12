@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-According to [Google Scholar](https://scholar.google.com/citations?user=2TIgdeoAAAAJ&hl=en), our publications have been cited more than 22,000 times with an H-index of 27.
+According to [Google Scholar](https://scholar.google.com/citations?user=2TIgdeoAAAAJ&hl=en), our publications have been cited more than 24,000 times with an H-index of 30.
 
 {% include section.html %}
 
