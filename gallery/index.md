@@ -64,12 +64,27 @@ nav:
   width="1200px"
 %}
 
-
-{% capture content %}
+{% capture col1 %}
   {% include figure.html image="images/group-photos/IMG_7024.jpg" width="100%" %}
+{% endcapture %}
+{% capture col2 %}
   {% include figure.html image="images/group-photos/IMG_7020.jpg" width="100%" %}
 {% endcapture %}
 
-{% include grid.html content=content style="square" %}
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
 
 <figcaption class="figure-caption"> Lucy's master degree defense. Congrats, Lucy!! (05/11/2024) </figcaption>
+
+{% capture content %}
+  {% include figure.html image="images/group-photos/IMG_6290.jpg" width="300px" %}
+  {% include figure.html image="images/group-photos/IMG_6595.jpg" width="300px" %}
+  {% include figure.html image="images/group-photos/IMG_6304.jpg" width="300px" %}
+{% endcapture %}
+
+{% include grid.html content=content %}
+
+<figcaption class="figure-caption"> Goodbye to Boston (6/27/2024) and greeting in New Haven (6/28/2024) </figcaption>

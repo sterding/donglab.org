@@ -106,6 +106,11 @@ Congratulations to **Lucy Tian** for receiving a PhD offer from Cornell Universi
 {% include alert.html type="offer" content=news2 %}
 
 {% capture news01 %}
+Yeah! Our lab was moved to Yale! (6/30/2024)
+{% endcapture %}
+{% include alert.html type="success" content=news01 %}
+
+{% capture news01 %}
 Welcome **Zehao Jin** from Tsinghua University joining the lab as a summer student! (7/1/2024) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
