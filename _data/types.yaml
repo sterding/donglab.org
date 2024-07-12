@@ -6,6 +6,14 @@ pi:
   #icon: fa-solid fa-microscope
   description: Principal Investigator
 
+ARS:
+  #icon: fa-solid fa-code
+  description: Associate Research Scientist
+
+RS:
+  #icon: fa-solid fa-code
+  description: Research Scientist
+  
 postdoc:
   #icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -25,10 +33,6 @@ researchassociate:
 researchassistant:
   #icon: fa-solid fa-code
   description: Research Assistant
-
-scientist:
-  #icon: fa-solid fa-code
-  description: Research Scientist
 
 engineer:
   #icon: fa-solid fa-code

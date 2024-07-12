@@ -7,19 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is currently located at Departmenet of Neurology at Brigham and Women's Hospital and Harvard Medical School, Boston, Massachusett. From July 1st, 2024, we will move to Yale University. We will be part of the Yale School of Medicine’s Department of Neurology and Section of Biomedical Informatics and Data Science (BIDS), physically based in the new Stephen and Denise Adams Center. We will be geographically located at the new buildings at 101 College and 100 College Street in New Haven, Connecticut.
+Our lab currently moved to Yale after staying in Brigham and Women's Hospital / Harvard Medical School for ten years. We are now a core part of the new Stephen and Denise Adams Center for Parkinson's Disease Research at Yale, affiliated with the Yale School of Medicine’s Department of Neurology and Section of Biomedical Informatics and Data Science (BIDS). We are geographically located at the 100 College Street and 300 George St in New Haven, Connecticut. From 2025, we will move to the new building of 101 College St. 
 
 {%
   include button.html
   type="email"
-  text="xdong@rics.bwh.harvard.edu"
-  link="xdong@rics.bwh.harvard.edu"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(857) 307-5423"
-  link="+1-857-307-5423"
+  text="xianjun.dong@yale.edu"
+  link="xianjun.dong@yale.edu"
 %}
 {%
   include button.html

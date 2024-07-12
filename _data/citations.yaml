@@ -923,10 +923,6 @@
   file: sources.yaml
 - id: pubmed:21526222
   title: A user's guide to the encyclopedia of DNA elements (ENCODE)
-  authors: []
-  publisher: PLoS biology
-  date: '2011-04-19'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21526222
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/mpot.2008.931159

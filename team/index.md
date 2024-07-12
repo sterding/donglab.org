@@ -23,8 +23,8 @@ The team includes postdocs, staff, and students at all levels.
 ## Current Members
 
 {% include list.html  data="members"  component="portrait"  filters="role: pi, group: " %}
+{% include list.html  data="members"  component="portrait"  filters="role: ARS, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: postdoc, group: " %}
-{% include list.html  data="members"  component="portrait"  filters="role: scientist, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: phd, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: master, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: engineer, group: " %}
@@ -53,8 +53,9 @@ We want to push the frontier of data science and train the next generation of da
 
 ## Alumni
 
+{% include list.html  data="members"  component="portrait"  style="small" filters="role: RS, group: alum" %}
+{% include list.html  data="members"  component="portrait"  style="small" filters="role: ARS, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: postdoc, group: alum" %}
-{% include list.html  data="members"  component="portrait"  style="small" filters="role: scientist, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: phd, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: master, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: engineer, group: alum" %}
