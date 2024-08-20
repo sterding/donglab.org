@@ -66,6 +66,11 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 ## News
 
 {% capture news0 %}
+**Dr. Dong** was invited by the [American Parkinson Disease Association](https://www.apdaparkinson.org/) (APDA) to share his research to the PD community in Chinese mandarin ([post link](https://www.apdaparkinson.org/videos/帕金森病研究/) and [YouTube video](https://www.youtube.com/watch?v=S9pykggOnWE)). (6/14/2024)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
+{% capture news0 %}
 Congratulations to **Dr. Jie Yuan** that his abstract entitled _"The Parkinson's Cell Atlas: A spatial map of disease programs in human brains"_ has been selected for a platform oral presentation at the 2023 American Society of Human Genetics (ASHG) Annual Meeting in Washington, DC, from November 1-5! (8/2/2023)
 {% endcapture %}
 {% include alert.html type="award" content=news0 %}

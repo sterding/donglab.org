@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Dong Lab
-subtitle: at Brigham and Women's Hospital, Harvard Medical School
+subtitle: at Adams Center for Parkinson's Research, Yale School of Medicine, Yale University
 description: We use computational genomics methods to study transcriptional regulation and its role in neurological diseases.
 logo-text: false
 header: images/background.jpg
@@ -11,10 +11,10 @@ footer-dark: true
 
 # site social media and other links
 links:
-  email: xdong@rics.bwh.harvard.edu
+  email: xianjun.dong@yale.edu
   orcid: 0000-0002-8052-9320
   google-scholar: 2TIgdeoAAAAJ
-  github: sterding
+  github: TheDongLab
   twitter: sterding
 
 ### jekyll settings
