@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
-We are always seeking talented and passionate people to join our team, from summer students to postdocs to staff scientists, short-term and long-term. You can learn a bit about working in the lab by reading our [onboarding](https://github.com/thedonglab/onboarding/blob/master/onboarding.md) document. **Note that we will move to Yale Univeristy from July 1st, 2024**. We stopped hiring for our current Harvard site during the transition. We welcome applications for our Yale site, including postdoc and research scientist. 
+We are always seeking talented and passionate people to join our team, from summer students to postdocs to staff scientists, short-term and long-term. You can learn a bit about working in the lab by reading our [onboarding](https://github.com/thedonglab/onboarding/blob/master/onboarding.md) document. 
 
 ### Postdoctoral Research Fellow
 

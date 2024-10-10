@@ -88,3 +88,19 @@ nav:
 {% include grid.html content=content %}
 
 <figcaption class="figure-caption"> Goodbye to Boston (6/27/2024) and greeting in New Haven (6/28/2024) </figcaption>
+
+
+{% capture col1 %}
+  {% include figure.html image="images/DongLab.logo.dark.png" width="100%" caption="Style 1 ([PNG](/images/DongLab.logo.dark.png), [SVG](/images/DongLab.logo.dark.svg))" %}
+{% endcapture %}
+{% capture col2 %}
+  {% include figure.html image="images/DongLab.logo.white.png" width="100%" caption="Style 2 ([PNG](/images/DongLab.logo.white.png), [SVG](/images/DongLab.logo.white.svg))" %}
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
+
+<figcaption class="figure-caption"> Lab Logo </figcaption>
