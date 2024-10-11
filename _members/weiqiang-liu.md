@@ -3,7 +3,7 @@ name: Weiqiang Liu, PhD
 image: images/headshots/weiqiang.jpg
 role: postdoc
 links:
-  email: weiqiang_liu2015@outlook.com
+  email: weiqiang.liu@yale.edu
   orcid: 0000-0002-2429-8791
   google-scholar: l65g8T0AAAAJ
 ---

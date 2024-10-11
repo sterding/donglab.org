@@ -9,7 +9,7 @@ aliases:
   - Y Zhao
 links:
   home-page: https://yiyongzhao.com/
-  email: yzhao@bwh.harvard.edu
+  email: yiyong.zhao@yale.edu
   github: YiyongZhao
   orcid: 0000-0002-5823-2926
 ---

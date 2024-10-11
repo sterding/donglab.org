@@ -8,6 +8,7 @@ aliases:
   - Xianjun Dong
 links:
   home-page: http://sterding.github.io
+  email: xianjun.dong@yale.edu
   github: sterding
   orcid: 0000-0002-8052-9320
   google-scholar: 2TIgdeoAAAAJ
