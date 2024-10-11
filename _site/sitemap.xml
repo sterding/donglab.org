@@ -109,7 +109,7 @@
 <lastmod>2024-08-20T03:05:07+00:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/gallery/</loc>
+<loc>http://0.0.0.0:4000/publication/</loc>
 <lastmod>2024-08-20T03:05:07+00:00</lastmod>
 </url>
 <url>
@@ -117,11 +117,11 @@
 <lastmod>2024-08-20T03:05:07+00:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/projects/</loc>
+<loc>http://0.0.0.0:4000/gallery/</loc>
 <lastmod>2024-08-20T03:05:07+00:00</lastmod>
 </url>
 <url>
-<loc>http://0.0.0.0:4000/publication/</loc>
+<loc>http://0.0.0.0:4000/projects/</loc>
 <lastmod>2024-08-20T03:05:07+00:00</lastmod>
 </url>
 <url>
