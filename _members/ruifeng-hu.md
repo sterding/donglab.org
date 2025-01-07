@@ -3,8 +3,6 @@ name: Ruifeng Hu, PhD
 image: images/headshots/ruifeng.jpg
 role: ARS
 aliases:
-  - R. Hu
-  - R Hu
   - Ruifeng Hu
 links:
   home-page: https://huruifeng.github.io/
