@@ -2,6 +2,7 @@
 name: Rosan Wang
 image: images/headshots/rosan.jpg
 role: researchassistant
+group: alum
 aliases:
   - Ruoxuan Wang
   - Rosan Wang

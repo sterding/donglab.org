@@ -2,6 +2,7 @@
 name: Zehao Jin
 image: images/headshots/zehao.png
 role: trainee
+group: alum
 links:
   home-page: https://lunamos.github.io
   github: lunamos
