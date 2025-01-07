@@ -1,5 +1,212 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39567484
+  title: 'Automating life science labs at the single-cell level through precise ultrasonic
+    liquid sample ejection: PULSE.'
+  authors:
+  - Peiran Zhang
+  - Zhenhua Tian
+  - Ke Jin
+  - Kaichun Yang
+  - Wesley Collyer
+  - Joseph Rufo
+  - Neil Upreti
+  - Xianjun Dong
+  - Luke P Lee
+  - Tony Jun Huang
+  publisher: Microsystems & nanoengineering
+  date: '2024-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39567484
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39438440
+  title: Uncovering genetic loci and biological pathways associated with age-related
+    cataracts through GWAS meta-analysis.
+  authors:
+  - Santiago Diaz-Torres
+  - Samantha Sze-Yee Lee
+  - "Luis M Garc\xEDa-Mar\xEDn"
+  - Adrian I Campos
+  - Garreth Lingham
+  - Jue-Sheng Ong
+  - David A Mackey
+  - Kathryn P Burdon
+  - Michael Hunter
+  - Xianjun Dong
+  - Stuart MacGregor
+  - Puya Gharahkhani
+  - "Miguel E Renter\xEDa"
+  publisher: Nature communications
+  date: '2024-10-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39438440
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39414796
+  title: ImmuneApp for HLA-I epitope prediction and immunopeptidome analysis.
+  authors:
+  - Haodong Xu
+  - Ruifeng Hu
+  - Xianjun Dong
+  - Lan Kuang
+  - Wenchao Zhang
+  - Chao Tu
+  - Zhihong Li
+  - Zhongming Zhao
+  publisher: Nature communications
+  date: '2024-10-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39414796
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39209966
+  title: Bioinformatics advances in eccDNA identification and analysis.
+  authors:
+  - Fuyu Li
+  - Wenlong Ming
+  - Wenxiang Lu
+  - Ying Wang
+  - Xianjun Dong
+  - Yunfei Bai
+  publisher: Oncogene
+  date: '2024-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39209966
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39185246
+  title: Experimental and Computational Methods for Allelic Imbalance Analysis from
+    Single-Nucleus RNA-seq Data.
+  authors:
+  - Sean K Simmons
+  - Xian Adiconis
+  - Nathan Haywood
+  - Jacob Parker
+  - Zechuan Lin
+  - Zhixiang Liao
+  - Idil Tuncali
+  - Aziz M Al'Khafaji
+  - Asa Shin
+  - Karthik Jagadeesh
+  - Kirk Gosik
+  - Michael Gatzen
+  - Jonathan T Smith
+  - Daniel N El Kodsi
+  - Yuliya Kuras
+  - Clare Baecher-Allan
+  - Geidy E Serrano
+  - Thomas G Beach
+  - Kiran Garimella
+  - Orit Rozenblatt-Rosen
+  - Aviv Regev
+  - Xianjun Dong
+  - Clemens R Scherzer
+  - Joshua Z Levin
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-08-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39185246
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38948706
+  title: Transcriptional pathobiology and multi-omics predictors for Parkinson's disease.
+  authors:
+  - Ruifeng Hu
+  - Ruoxuan Wang
+  - Jie Yuan
+  - Zechuan Lin
+  - Elizabeth Hutchins
+  - Barry Landin
+  - Zhixiang Liao
+  - Ganqiang Liu
+  - Clemens R Scherzer
+  - Xianjun Dong
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-06-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38948706
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38946666
+  title: Plasma and CSF biomarkers of aging and cognitive decline in Caribbean vervets.
+  authors:
+  - Curran Varma
+  - Eva Luo
+  - Gustaf Bostrom
+  - Praveen Bathini
+  - Daniela Berdnik
+  - Tony Wyss-Coray
+  - Tingting Zhao
+  - Xianjun Dong
+  - Frank R Ervin
+  - Amy Beierschmitt
+  - Roberta M Palmour
+  - Cynthia A Lemere
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2024-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38946666
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38599684
+  title: Transcriptional programs mediating neuronal toxicity and altered glial-neuronal
+    signaling in a
+  authors:
+  - Hassan Bukhari
+  - Vanitha Nithianandam
+  - Rachel A Battaglia
+  - Anthony Cicalo
+  - Souvarish Sarkar
+  - Aram Comjean
+  - Yanhui Hu
+  - Matthew J Leventhal
+  - Xianjun Dong
+  - Mel B Feany
+  publisher: Genome research
+  date: '2024-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38599684
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38559190
+  title: An integrative systems-biology approach defines mechanisms of Alzheimer's
+    disease neurodegeneration.
+  authors:
+  - Matthew J Leventhal
+  - Camila A Zanella
+  - Byunguk Kang
+  - Jiajie Peng
+  - David Gritsch
+  - Zhixiang Liao
+  - Hassan Bukhari
+  - Tao Wang
+  - Ping-Chieh Pao
+  - Serwah Danquah
+  - Joseph Benetatos
+  - Ralda Nehme
+  - Samouil Farhi
+  - Li-Huei Tsai
+  - Xianjun Dong
+  - Clemens R Scherzer
+  - Mel B Feany
+  - Ernest Fraenkel
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-10-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38559190
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38352559
+  title: Transcriptional programs mediating neuronal toxicity and altered glial-neuronal
+    signaling in a
+  authors:
+  - Hassan Bukhari
+  - Vanitha Nithianandam
+  - Rachel A Battaglia
+  - Anthony Cicalo
+  - Souvarish Sarkar
+  - Aram Comjean
+  - Yanhui Hu
+  - Matthew J Leventhal
+  - Xianjun Dong
+  - Mel B Feany
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38352559
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:37930031
   title: 'FLED: a full-length eccDNA detector for long-reads sequencing data'
   authors:
