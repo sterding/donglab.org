@@ -1,3 +1,14 @@
+- id: pubmed:39567484
+- id: pubmed:39438440
+- id: pubmed:39414796
+- id: pubmed:39209966
+- id: pubmed:39185246
+- id: pubmed:38948706
+- id: pubmed:38946666
+- id: pubmed:38599684
+- id: pubmed:38559190
+- id: pubmed:38352559
+
 - id: pubmed:37930031
   title: 'FLED: a full-length eccDNA detector for long-reads sequencing data'
   authors:
