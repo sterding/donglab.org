@@ -1,6 +1,6 @@
 ---
 name: Corinne Brewi
-image: images/headshots/corinne-brewi.jpg
+image: images/headshots/corinne-brewi.jpeg
 role: manager
 description: Senior Administrative Assistant
 aliases:
