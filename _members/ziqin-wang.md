@@ -2,6 +2,7 @@
 name: Ziqin Wang
 image: images/headshots/ziqin.jpg
 role: researchassistant 
+group: alum
 
 links:
   email: zqwa@ucdavis.edu
