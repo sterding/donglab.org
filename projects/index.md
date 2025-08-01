@@ -11,9 +11,9 @@ We are intersted in applying and developing computational methods and latest gen
 
 Our research focus on three aspects:
 
-1. Studying **transcriptional regulation**, incl. discovery of regulatory elements in the human genome and how they contribute to gene expression; 
-2. Discovering **non-coding RNAs** (such as eRNA, circRNA, piRNA, miRNA) and their role in neurological diseases; 
-3. Applying the latest **AI models to multi-model data** (e.g. omics, clinical, imaging, and wearable device) to predict gene regulation, drug response, and/or disease diagnosis.
+1. **Transcriptional regulation**, incl. discovery of regulatory elements in the human genome and how they contribute to gene expression; 
+2. **Non-coding RNAs** (such as eRNA, circRNA, piRNA, miRNA) and their role in neurological diseases; 
+3. **AI models + multi-model data** (e.g. omics, clinical, imaging, and wearable device) to predict gene regulation, drug response, and/or disease diagnosis.
 
 Below are active projects in the lab:
 

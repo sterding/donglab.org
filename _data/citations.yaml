@@ -1,5 +1,174 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40666973
+  title: 'EVscope: A Comprehensive Bioinformatics Pipeline for Accurate and Robust
+    Analysis of Total RNA Sequencing from Extracellular Vesicles.'
+  authors:
+  - Yiyong Zhao
+  - Himanshu Chintalapudi
+  - Ziqian Xu
+  - Weiqiang Liu
+  - Yuxuan Hu
+  - Ewa Grassin
+  - Minsun Song
+  - SoonGweon Hong
+  - Luke P Lee
+  - Xianjun Dong
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2025-06-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40666973
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40666320
+  title: Genome-wide association meta-regression identifies stem cell lineage orchestration
+    as a key driver of acne risk.
+  authors:
+  - Jessye Maxwell
+  - Brittany L Mitchell
+  - Xinyi DuHarpur
+  - Luba M Pardo
+  - Willemijn C A M Witkam
+  - Nick Dand
+  - Meike Bartels
+  - Michael J Betti
+  - Dorret I Boomsma
+  - Xianjun Dong
+  - Zachary Gerring
+  - Sarah Finer
+  - Fiona A Hagenbeek
+  - Jouke Jan Hottenga
+  - George Hripcsak
+  - Laura Huilaja
+  - Kristian Hveem
+  - Benjamin M Jacobs
+  - Mart Kals
+  - James Kaufman-Cook
+  - Johannes Kettunen
+  - Atlas Khan
+  - "K\xFClli Kingo"
+  - Krzysztof Kiryluk
+  - "Mari L\xF8set"
+  - Gerton Lunter
+  - Michelle K Lupton
+  - Josine L Min
+  - Nicholas G Martin
+  - Sarah E Medland
+  - Dorien Neijzen
+  - Tamar E C Nijsten
+  - Tiit Nikopensius
+  - Catherine M Olsen
+  - Lynn Petukhova
+  - Anu Reigo
+  - "Miguel E Renter\xEDa"
+  - Rossella Rispoli
+  - Jake Saklatvala
+  - Eeva Sliz
+  - "Kaisa Tasanen-M\xE4\xE4tt\xE4"
+  - Laurent Thomas
+  - Richard C Trembath
+  - Mariliis Vaht
+  - David A van Heel
+  - Chunhua Weng
+  - David C Whiteman
+  - Jonathan N Barker
+  - Catherine Smith
+  - Michael A Simpson
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2025-06-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40666320
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40585238
+  title: Multi-omics machine learning classifier and blood transcriptomic signature
+    of Parkinson's disease.
+  authors:
+  - Xianjun Dong
+  - Ruifeng Hu
+  - Ruoxuan Wang
+  - Jie Yuan
+  - Zechuan Lin
+  - Elizabeth Hutchins
+  - Barry Landin
+  - Zhixiang Liao
+  - Ganqiang Liu
+  - Clemens Scherzer
+  publisher: Research square
+  date: '2025-06-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40585238
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40446401
+  title: Impact of Y chromosome loss on the risk of Parkinson's disease and progression.
+  authors:
+  - Junhao Wang
+  - Xinyi Chen
+  - Wenxuan Du
+  - Cha Lin
+  - Yu Liao
+  - Jean-Christophe Corvol
+  - "Jodi Maple-Gr\xF8dem"
+  - Meghan C Campbell
+  - Alexis Elbaz
+  - Suzanne Lesage
+  - Alexis Brice
+  - Michael A Schwarzschild
+  - Pille Taba
+  - "Sulev K\xF5ks"
+  - Guido Alves
+  - "Ole-Bj\xF8rn Tysnes"
+  - Joel S Perlmutter
+  - Baijayanta Maiti
+  - Jacobus J van Hilten
+  - Roger A Barker
+  - Caroline H Williams-Gray
+  - Clemens R Scherzer
+  - Ganqiang Liu
+  publisher: EBioMedicine
+  date: '2025-05-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40446401
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40393985
+  title: An integrative systems-biology approach defines mechanisms of Alzheimer's
+    disease neurodegeneration.
+  authors:
+  - Matthew J Leventhal
+  - Camila A Zanella
+  - Byunguk Kang
+  - Jiajie Peng
+  - David Gritsch
+  - Zhixiang Liao
+  - Hassan Bukhari
+  - Tao Wang
+  - Ping-Chieh Pao
+  - Serwah Danquah
+  - Joseph Benetatos
+  - Ralda Nehme
+  - Samouil Farhi
+  - Li-Huei Tsai
+  - Xianjun Dong
+  - Clemens R Scherzer
+  - Mel B Feany
+  - Ernest Fraenkel
+  publisher: Nature communications
+  date: '2025-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40393985
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:40050982
+  title: Biomarker identification for Alzheimer's disease through integration of comprehensive
+    Mendelian randomization and proteomics data.
+  authors:
+  - Hui Zhan
+  - Davis Cammann
+  - Jeffrey L Cummings
+  - Xianjun Dong
+  - Jingchun Chen
+  publisher: Journal of translational medicine
+  date: '2025-03-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40050982
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:39567484
   title: 'Automating life science labs at the single-cell level through precise ultrasonic
     liquid sample ejection: PULSE.'
