@@ -7,7 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We are intersted in applying and developing computational methods and latest genomics technologies to dig into the omics data, to reveal the unknown functions of the human genome and their roles in neurological diseases.
+We are intersted in applying and developing computational methods and latest genomics technologies to dig into the omics data, to reveal the unknown functions of the human genome and their roles in neurological diseases. 
+
+Our research focus on three aspects:
+
+1. Studying **transcriptional regulation**, incl. discovery of regulatory elements in the human genome and how they contribute to gene expression; 
+2. Discovering **non-coding RNAs** (such as eRNA, circRNA, piRNA, miRNA) and their role in neurological diseases; 
+3. Applying the latest **AI models to multi-model data** (e.g. omics, clinical, imaging, and wearable device) to predict gene regulation, drug response, and/or disease diagnosis.
+
+Below are active projects in the lab:
 
 {% include section.html %}
 
@@ -18,7 +26,7 @@ We are intersted in applying and developing computational methods and latest gen
 {% include float.html content=content flip=false %}
 ​Genome-wide association studies (GWAS) have unequivocally linked thousands of noncoding variants to Parkinson’s disease (PD). Why have these breakthroughs not uncovered the mechanism(s) of common, genetically complex PD? We do not know how GWAS variants cause neurodegeneration, which variants are causal, and why they impair some brain cells but not others. Overwhelming evidence shows that *cis*-regulation of transcription is the most likely mediator of disease risk, and that it is finely tuned by cellular and dynamic context. Here we will pinpoint the causal gene(s) through which GWAS loci function in spatially barcoded, single brain cells and, dynamically, over pseudotime using single-nucleus expression Quantitative Trait Locus (eQTL) analysis. Putative causal genes will be tested mechanistically in cell- and stage-specific analyses in vivo in Drosophila avatars and in vitro in human pluripotent stem cells. Moreover, we will identify the corresponding causal GWAS variants through allele-specific expression and CRISPR/Cas9-variant editing in single brain cells. This collaborative and highly integrated project will begin to reveal the complex human genetics of PD through a dynamic, multi-dimensional view of proximal cellular mechanisms across brain cells, brain space, and disease stage.
 
->**Funding: ASAP (PIs: Scherzer, Levin, Dong, Feany, Zhang), 2021-2024, $9M in total**
+>**Funding: ASAP (PIs: Scherzer, Levin, Dong, Feany, Zhang), 2021-2026, $9M in total**
 
 ​As part of the [ASAP](https://parkinsonsroadmap.org/) CRN, our team has generated large-scale multi-model datasets, incl. scRNAseq, scATACseq, spatial transcriptomics, genomics, and clinical data for two brain regions (MTG and midbrain) of 100 human subjects (incl. healthy control, prodromal, and PD). The rich datasets from this project, together with other shared omics data from ASAP CRN, can be used to answer various biological questions related to Parkinson's disease. We are looking for computational talents who are passinate with genomics and neurosceince and [join us]({{ site.baseurl }}/join) to explore the data together. 
 
@@ -73,7 +81,17 @@ In this collaborative project with Dr Sun's team at John Hopkin University, we a
 
 {% include section.html %}
 
-## Other unsponsored but *interesting* projects
+## AI multi-omics model for neurological diseases
+
+Fast development in LLM AI models and their application to omics (e.g. State, alphaGenome) has set the fire for the omics field. We have accumulated years of experiences in studying gene regulation and their roles in neurodegenerative diseases. Now, with the access to large-scale multi-omics data from both in-house projects (e.g. PD5D, BRAINcode) and large consortiums, we aim to build an AI multi-omics model (or refine the existing pretrained model) to predict cell-specific gene regulatory network, drug response, and/or disease association.  
+
+>**Funding: Yale Seed fund**
+​
+{% include float.html clear=true %}
+
+{% include section.html %}
+
+## Other unsponsored but *ongoing* projects
 
 {% capture col1 %}
 ### Intron size matters! 
@@ -88,9 +106,9 @@ Other RNA processing than gene expression may play critical roles in brain disea
 {% endcapture %}
 
 {% capture col3 %}
-### RNAs transported to synapse
+### RNA therapy for early PD
 {% include figure.html image="images/project_RNAsynapse.jpg" %}
-Neuronal mRNAs are transported to synapse for local translation. But what about those non-coding RNAs such as circRNAs enriched in synapse? How did they get there? What do they do there? 
+Synaptic disruption precedes neuronal death. And many non-coding RNAs such as circRNAs are enriched in synapse. What do they do there? How do they get there? Can they be used for PD therapeutics?
 {% endcapture %}
 
 {% capture col4 %}
