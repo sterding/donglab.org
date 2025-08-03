@@ -56,6 +56,11 @@
   font-weight: var(--semi-bold);
 }
 
+/* added by Xianjun to make the role in portrait in gray color */
+.portrait-role {
+  color: gray !important;
+}
+
 .portrait-role .icon {
   position: absolute;
   left: 0;
