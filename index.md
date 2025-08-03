@@ -74,6 +74,11 @@ Congratulations to **Dr. Maria I. Olivero-Acosta** for receiving a two-year APDA
 {% endcapture %}
 {% include alert.html type="award" content=news0 %}
 
+{% capture news2 %}
+Congratulations to **Qingru Xu** for receiving a PhD offer from UCLA! (2/27/2025)
+{% endcapture %}
+{% include alert.html type="offer" content=news2 %}
+
 {% capture news0 %}
 Congratulations to **Deep Patel** for receiving a Yale CBB MS Summer Internship program!! (1/14/2025)
 {% endcapture %}
