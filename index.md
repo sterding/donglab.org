@@ -64,44 +64,68 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 {% include section.html %}
 
 ## News
+{% capture news01 %}
+Welcome two talent high schooler, **Sophia Kong** and **Christopher Zhang**, joining the lab as a summer intern! (6/1/2025) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news0 %}
+Congratulations to **Dr. Maria I. Olivero-Acosta** for receiving a two-year APDA Postdoc Fellowship (2025-2027)!! (5/30/2025)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
+{% capture news0 %}
+Congratulations to **Deep Patel** for receiving a Yale CBB MS Summer Internship program!! (1/14/2025)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
+{% capture news01 %}
+Welcome **Dr. Ruifeng Hu** returning to the team as an Associate Research Scientist after leaving for an indurstrial job for a year! (1/1/2025) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **Dr. Weiqiang "Leo" Liu** from Chinese Academy of Sciences joining the lab as a postdoc research associate! (10/1/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **Dr. Himanshu Chintalapudi** joining the lab as a Associate Research Scientist! (10/1/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **William Xu** from Naikai University joining the lab as a postgraduate assistant! (8/22/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **Deep Patel** joining the lab as a Master student from Yale master program! (8/10/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **Dr. Maria I. Olivero-Acosta** from Purdue University joining the lab as a postdoc reserach associate! (8/5/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Welcome **Zehao Jin** from Tsinghua University joining the lab as a summer student! (7/1/2024) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
+Yeah! Our lab was moved to Yale! (6/30/2024)
+{% endcapture %}
+{% include alert.html type="success" content=news01 %}
 
 {% capture news0 %}
 **Dr. Dong** was invited by the [American Parkinson Disease Association](https://www.apdaparkinson.org/) (APDA) to share his research to the PD community in Chinese mandarin ([post link](https://www.apdaparkinson.org/videos/帕金森病研究/) and [YouTube video](https://www.youtube.com/watch?v=S9pykggOnWE)). (6/14/2024)
 {% endcapture %}
 {% include alert.html type="award" content=news0 %}
 
-{% capture news0 %}
-Congratulations to **Dr. Jie Yuan** that his abstract entitled _"The Parkinson's Cell Atlas: A spatial map of disease programs in human brains"_ has been selected for a platform oral presentation at the 2023 American Society of Human Genetics (ASHG) Annual Meeting in Washington, DC, from November 1-5! (8/2/2023)
-{% endcapture %}
-{% include alert.html type="award" content=news0 %}
-
-{% capture news00 %}
-Welcome **Yuxuan Hu** from China Pharmaceutical University joining the lab as a visiting student! (10/18/2023)
-{% endcapture %}
-{% include alert.html type="onboard" content=news00 %}
-
-{% capture news01 %}
-Welcome **Dr. Mingming Lu** joining the lab as a postdoc reserach fellow! (1/16/2024) 
-{% endcapture %}
-{% include alert.html type="onboard" content=news01 %}
-
-{% capture news1 %}
-Congratulations to **Rosan Wang** for receiving a PhD offer from UMass Medical School! (2/3/2024)
-{% endcapture %}
-{% include alert.html type="offer" content=news1 %}
-
-{% capture news0 %}
-Congratulations to **Rosan Wang** that her work about _"Identifying enhancer RNAs in blood and their immunological role for Parkinson’s disease"_ was invited by FNIH to present at the Inaugural Accelerating Medicines Partnership® (AMP®) Program Symposium in Bethesda, Maryland, celebrating the AMP program’s 10th anniversary. Dr Dong will present the work on behalf of the team! (2/5/2024)
-{% endcapture %}
-{% include alert.html type="award" content=news0 %}
-
 {% capture news2 %}
-Congratulations to **Lucy Tian** for receiving an offer from USC’s Computational Biology PhD program! (2/13/2024)
-{% endcapture %}
-{% include alert.html type="offer" content=news2 %}
-
-{% capture news2 %}
-Congratulations to **Rosan Wang** and **Lucy Tian** for receiving offers from UCSD’s Bioinformatics and Systems Biology PhD program! (2/27/2024)
+Congratulations to **Rosan Wang** for receiving offers from UCSD’s Bioinformatics and Systems Biology PhD program! (2/27/2024)
 {% endcapture %}
 {% include alert.html type="offer" content=news2 %}
 
@@ -110,17 +134,22 @@ Congratulations to **Lucy Tian** for receiving a PhD offer from Cornell Universi
 {% endcapture %}
 {% include alert.html type="offer" content=news2 %}
 
-{% capture news01 %}
-Yeah! Our lab was moved to Yale! (6/30/2024)
+{% capture news0 %}
+Congratulations to **Rosan Wang** that her work about _"Identifying enhancer RNAs in blood and their immunological role for Parkinson’s disease"_ was invited by FNIH to present at the Inaugural Accelerating Medicines Partnership® (AMP®) Program Symposium in Bethesda, Maryland, celebrating the AMP program’s 10th anniversary. Dr Dong will present the work on behalf of the team! (2/5/2024)
 {% endcapture %}
-{% include alert.html type="success" content=news01 %}
+{% include alert.html type="award" content=news0 %}
 
 {% capture news01 %}
-Welcome **Zehao Jin** from Tsinghua University joining the lab as a summer student! (7/1/2024) 
+Welcome **Dr. Mingming Lu** joining the lab as a postdoc reserach fellow! (1/16/2024) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
 
-{% capture news01 %}
-Welcome **Dr. Maria I. Olivero-Acosta** from Purdue University joining the lab as a postdoc reserach associate! (7/6/2024) 
+{% capture news00 %}
+Welcome **Yuxuan Hu** from China Pharmaceutical University joining the lab as a visiting student! (10/18/2023)
 {% endcapture %}
-{% include alert.html type="onboard" content=news01 %}
+{% include alert.html type="onboard" content=news00 %}
+
+{% capture news0 %}
+Congratulations to **Dr. Jie Yuan** that his abstract entitled _"The Parkinson's Cell Atlas: A spatial map of disease programs in human brains"_ has been selected for a platform oral presentation at the 2023 American Society of Human Genetics (ASHG) Annual Meeting in Washington, DC, from November 1-5! (8/2/2023)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
