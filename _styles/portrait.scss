@@ -56,8 +56,14 @@
   font-weight: var(--semi-bold);
 }
 
-/* added by Xianjun to make the role in portrait in gray color */
+/* Make portrait role appear as plain gray even in a link */
 .portrait-role {
+  color: gray !important;
+  pointer-events: none; /* Clicking this area still triggers the parent link */
+}
+
+/* Optional: also ensure inner text/span is gray */
+.portrait-role span {
   color: gray !important;
 }
 
