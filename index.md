@@ -18,7 +18,7 @@ The Dong Lab is a team of researchers at Yale University dedicated to answering 
 
 
 {% capture text %}
-We study (1) **transcriptional regulation**, incl. discovery of regulatory elements in the human genome and how they contribute to gene expression; (2) **non-coding RNAs** (such as eRNA, circRNA, piRNA, miRNA) and their role in neurological diseases; and (3) **AI in precision medicine** by integrating multi-model data (e.g. omics, clinical, imaging, and wearable device) and the latest machine learning methods to predict disease diagnosis and progression. 
+We study (1) **transcriptional regulation**, incl. discovery of regulatory elements in the human genome and how they contribute to gene expression; (2) **non-coding RNAs** (such as eRNA, circRNA, piRNA, miRNA, LINE/Alu) and their biomarker/therapeutic role in neurological diseases; and (3) **AI in precision medicine** by integrating multi-model data (e.g. clinical, imaging, omics, and wearable device) and the latest ML/AI methods to predict gene regulation, drug response, and disease status. 
 {% include button.html link="publication" text="See our publications" icon="fa-solid fa-arrow-right" style="bare" %}
 {% endcapture %}
 
