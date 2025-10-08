@@ -1,5 +1,5 @@
 ---
-name: Zach Wolfe, PhD
+name: Zachery Wolfe, PhD
 image: images/headshots/zach.jpg
 role: postdoc
 aliases:
