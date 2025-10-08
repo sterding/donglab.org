@@ -85,7 +85,7 @@ We want to push the frontier of data science and train the next generation of da
 
 [![Massachusetts Life Sciences Center](/images/team/MLSC-logo.jpeg)](https://www.masslifesciences.com)
 
-[![Yale AI Seed](https://upload.wikimedia.org/wikipedia/commons/6/6e/Yale_University_logo.svg)](https://ai.yale.edu/seed-grants-2025)
+[![Yale AI Seed](/images/yale-university-logo.png)](https://ai.yale.edu/seed-grant-awards-2025)
 
 {% endcapture %}
 ​
