@@ -2,6 +2,7 @@
 name: Qingru Xu
 image: images/headshots/qingru.jpg
 role: researchassociate
+group: alum
 aliases:
   - Q. Xu
   - Q Xu
