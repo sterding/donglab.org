@@ -65,6 +65,11 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 
 ## News
 {% capture news01 %}
+Welcome **Dr Zachery Wolfe** joining the lab as a postdoc associate starting from Nov 2025! (10/6/2025) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
 Welcome two talent high schooler, **Sophia Kong** and **Christopher Zhang**, joining the lab as a summer intern! (6/1/2025) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
