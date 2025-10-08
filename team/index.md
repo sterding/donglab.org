@@ -53,7 +53,6 @@ We want to push the frontier of data science and train the next generation of da
 
 ## Alumni
 
-{% include list.html  data="members"  component="portrait"  style="small" filters="role: RS, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: ARS, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: postdoc, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: phd, group: alum" %}
