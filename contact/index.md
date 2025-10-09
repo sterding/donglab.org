@@ -7,7 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab recently moved to the new building of 101 College st at Yale after staying in Brigham and Women's Hospital / Harvard Medical School for ten years. We are now a core part of the newly established Stephen and Denise Adams Center for Parkinson's Disease Research at Yale, affiliated with the Yale School of Medicine’s Departments of Neurology and of Biomedical Informatics and Data Science (BIDS). Our wet lab is still located at 300 George St in New Haven, and anticipated to move into 101 College st in 2026.
+Our lab relocated to Yale University in 2024, after spending ten years at Brigham and Women’s Hospital and Harvard Medical School in Boston. We are now an integral part of the newly established Stephen and Denise Adams Center for Parkinson’s Disease Research at Yale, affiliated with the Departments of Neurology and Biomedical Informatics and Data Science (BIDS) at the Yale School of Medicine.
+
+Our main office is located at 101 College Street, New Haven, a new state-of-the-art research facility that houses many of Yale’s neuroscience and data science programs. Our wet lab currently operates at 300 George Street in New Haven and is expected to move into the 101 College Street building in 2026.
+
+Yale University is located in New Haven, Connecticut, a vibrant yet peaceful coastal city conveniently situated between Boston and New York City. (Tips: [How to reach our campus](https://yalecollege.yale.edu/first-year-and-new-student-resources/planning-your-move/how-get-campus))
 
 {%
   include button.html
