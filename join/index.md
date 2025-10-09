@@ -69,7 +69,7 @@ Visit their website to learn about opportunities on the team.
 
 We welcome undergraduate students into our lab.
 Undergraduate researchers have become first authors on papers submitted on research that they performed as part of our group.
-We are happy to train undergraduates in many aspects of data-intensive biology, and we have high expectations for their level of commitment to research.
+We are happy to train undergraduates in many aspects of data-intensive computational biology, and we have high expectations for their level of commitment to research.
 
 If you are an undergraduate interested in discussing research opportunities please [contact Dr Dong]({{ site.baseurl }}/contact).
 
