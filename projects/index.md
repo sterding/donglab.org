@@ -143,3 +143,11 @@ Neuronal mRNAs are transported to synapse for local translation. But what about 
   col3=col6
 %}
  -->
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join us with your own project!"
+  link="join"
+  style="button"
+%}
