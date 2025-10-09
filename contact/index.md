@@ -12,14 +12,14 @@ Our lab recently moved to the new building of 101 College st at Yale after stayi
 {%
   include button.html
   type="email"
-  text="xianjun.dong@yale.edu"
+  text="xianjun.dong AT yale DOT edu"
   link="xianjun.dong@yale.edu"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/9V3Z9dR8AjDg5CSSA"
+  link="https://maps.app.goo.gl/51vgUBHtAVujGvKbA"
 %}
 
 {% include section.html %}
@@ -64,6 +64,6 @@ Our lab recently moved to the new building of 101 College st at Yale after stayi
 
 {% endcapture %}
 
-{% include cols.html col1=col4 col2=col1 %}
-{% include cols.html col3=col2 col4=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col3=col4 col4=col3 %}
 
