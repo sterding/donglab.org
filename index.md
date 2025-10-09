@@ -69,13 +69,18 @@ Welcome **Dr Zachery Wolfe** joining the lab as a postdoc associate starting fro
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
 
+{% capture news0 %}
+Congratulations to the TFBoy team (**Yuxuan Hu**, **Weiqiang Liu**, and **Yiyong Zhao**) for receiving a MoMA fund from [ASAP](https://parkinsonsroadmap.org)! (8/8/2025)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
 {% capture news01 %}
 Welcome two talent high schooler, **Sophia Kong** and **Christopher Zhang**, joining the lab as a summer intern! (6/1/2025) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
 
 {% capture news0 %}
-Congratulations to **Dr. Maria I. Olivero-Acosta** for receiving a two-year APDA Postdoc Fellowship (2025-2027)!! (5/30/2025)
+Congratulations to **[Dr. Maria I. Olivero-Acosta](https://www.apdaparkinson.org/research/investigators/maria-i-olivero-acosta-phd/)** for receiving a two-year APDA Postdoc Fellowship (2025-2027)!! (5/30/2025)
 {% endcapture %}
 {% include alert.html type="award" content=news0 %}
 
