@@ -22,13 +22,13 @@ phd:
   #icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-master:
-  #icon: fa-solid fa-graduation-cap
-  description: Master Student
-
 researchassociate:
   #icon: fa-solid fa-code
   description: Research Associate
+
+master:
+  #icon: fa-solid fa-graduation-cap
+  description: Master Student
 
 researchassistant:
   #icon: fa-solid fa-code
