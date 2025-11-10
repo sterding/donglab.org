@@ -25,7 +25,7 @@
   authors:
   - Jessye Maxwell
   - Brittany L Mitchell
-  - Xinyi DuHarpur
+  - Xinyi Du-Harpur
   - Luba M Pardo
   - Willemijn C A M Witkam
   - Nick Dand
@@ -53,6 +53,7 @@
   - Josine L Min
   - Nicholas G Martin
   - Sarah E Medland
+  - Andres Metspalu
   - Dorien Neijzen
   - Tamar E C Nijsten
   - Tiit Nikopensius
@@ -64,6 +65,7 @@
   - Jake Saklatvala
   - Eeva Sliz
   - "Kaisa Tasanen-M\xE4\xE4tt\xE4"
+  - Maris Teder-Laving
   - Laurent Thomas
   - Richard C Trembath
   - Mariliis Vaht
@@ -74,7 +76,7 @@
   - Catherine Smith
   - Michael A Simpson
   publisher: 'medRxiv : the preprint server for health sciences'
-  date: '2025-06-28'
+  date: '2025-09-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40666320
   plugin: sources.py
   file: sources.yaml
