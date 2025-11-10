@@ -26,9 +26,9 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  filters="role: ARS, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: postdoc, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: phd, group: " %}
-{% include list.html  data="members"  component="portrait"  filters="role: master, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: engineer, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: researchassociate, group: " %}
+{% include list.html  data="members"  component="portrait"  filters="role: master, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: researchassistant, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: trainee, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: manager, group: " %}
