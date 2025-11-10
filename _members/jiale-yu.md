@@ -1,7 +1,7 @@
 ---
 name: Jiale Yu
 image: images/headshots/jialeyu.jpg
-role: Master Student
+role: master
 aliases:
   - J. Yu
 links:
