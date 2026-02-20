@@ -64,6 +64,16 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 {% include section.html %}
 
 ## News
+{% capture news0 %}
+Congratulations to **Weiqiang Liu** for receiving the ASAP CRN Discovery Fellowship ($500k for two years)! (121/11/2025)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
+{% capture news0 %}
+Dr. Dong received a MoMA Co-lead renewal for 2026 from the ASAP/MJFF Foundation! (12/2/2025)
+{% endcapture %}
+{% include alert.html type="award" content=news0 %}
+
 {% capture news01 %}
 Welcome **Jiale Yu** joining the lab as a research training and master student from Nov 2025! (11/1/2025) 
 {% endcapture %}
