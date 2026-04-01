@@ -11,7 +11,10 @@ We are always seeking talented and passionate people to join our team, from summ
 
 ### AI Scientist
 
-We welcome applicants with any background or degree level (PhD, master, bachlor or even high schooler), as long as you have passion and experience in applying large language model (LLM) to gene regulation and precision medicine. Here is our detailed [job post]({{ site.baseurl }}/join/DongLab-AIscientist.JD.pdf). 
+We welcome applicants from all backgrounds and degree levels (PhD, Master’s, Bachelor’s, or equivalent experience). What matters most is your passion and hands-on experience in applying large language models (LLMs) to problems in gene regulation and precision medicine.
+
+For full details, please see our job description: 
+👉 [Job Post]({{ site.baseurl }}/join/DongLab-AIscientist.JD.pdf)
 
 
 ### Postdoctoral Research Fellow
