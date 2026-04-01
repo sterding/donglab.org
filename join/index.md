@@ -9,6 +9,11 @@ nav:
 
 We are always seeking talented and passionate people to join our team, from summer students to postdocs to staff scientists, short-term and long-term. You can learn a bit about working in the lab by reading our [onboarding](https://github.com/thedonglab/onboarding/blob/master/onboarding.md) document. 
 
+### AI Scientist
+
+We welcome applicants with any background or degree level (PhD, master, bachlor or even high schooler), as long as you have passion and experience in applying large language model (LLM) to gene regulation and precision medicine. Here is our detailed [job post](https://github.com/thedonglab/join/DongLab-AIscientist.JD.pdf). 
+
+
 ### Postdoctoral Research Fellow
 
 The Dong Lab welcomes applications for both _**computational**_ and _**experimental**_ postdoctoral positions to work on our [projects]({{ site.baseurl }}/projects). In general, we ask you to send your CV, and a cover letter to state your career goal, your research interest, and why you think you are a good fit for the lab, together with the contact information (name, affiliation, email, phone, your relationship) of three references. 

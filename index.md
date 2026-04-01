@@ -6,6 +6,15 @@
 The Dong Lab is a team of researchers at Yale University dedicated to answering important questions in genome biology and brain diseases with both computational and experimental methods. We focus on studying transcriptional regulation and non-coding RNAs and their roles in neurodegenerative diseases through developing computational methods to integrate and analyze multi-omics and clinical data. 
 
 {%
+  include button.html
+  icon="fa-brands fa-linkedin" 
+  text="We are hiring an AI scientist!"
+  link="join"
+  style="button"
+%}
+
+
+{%
   include figure.html
   image="images/group-photos/IMG_4458.jpg"
   width="1200px"
