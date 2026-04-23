@@ -37,19 +37,6 @@ The team includes postdocs, staff, and students at all levels.
 
 {% include section.html %}
 
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
-
-{%
-  include button.html
-  icon="fa-solid fa-handshake-angle"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-
-{% include section.html %}
-
 
 ## Alumni
 
@@ -88,6 +75,21 @@ We want to push the frontier of data science and train the next generation of da
 [![Yale AI Seed](/images/yale-university-logo.png)](https://ai.yale.edu/seed-grant-awards-2025)
 
 {% endcapture %}
+
+
+{% include section.html %}
+
+We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
+We want to push the frontier of data science and train the next generation of data scientists.
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
+
 ​
 {% include grid.html content=content %}
 
