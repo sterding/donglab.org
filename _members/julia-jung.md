@@ -1,5 +1,5 @@
 ---
-name: DaYe (Julia) Jung
+name: DaYe Julia Jung
 image: images/headshots/daye.jpeg
 role: master
 aliases:
