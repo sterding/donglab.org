@@ -74,7 +74,7 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 
 ## News
 {% capture news01 %}
-Welcome four talented Yale Master's students, **Mengmeng Wang** (CBB 27'), **Chunyi Wang** (biostat 26'), **Tony Zhu** (biostat 27'),and **Julia Daye Jung** (CBB 28'), joining the lab as a research assistant! (4/22/2026) 
+Welcome four talented Yale Master's students, **Mengmeng Wang** (CBB 27'), **Chunyi Wang** (biostat 26'), **Tony Zhu** (biostat 27'), and **Julia Daye Jung** (CBB 28'), joining the lab as a research assistant! (4/22/2026) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
 
