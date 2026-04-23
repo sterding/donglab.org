@@ -1,7 +1,7 @@
 ---
 name: Ewa Grassin, PhD
 image: images/headshots/ewa.jpg
-role: postdoc
+role: postdocfellow
 aliases:
   - E. Grassin
   - Ewa Grassin
