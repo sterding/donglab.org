@@ -73,8 +73,13 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 {% include section.html %}
 
 ## News
+{% capture news01 %}
+Welcome four talented Yale Master's students, **Mengmeng Wang** (CBB 27'), **Chunyi Wang**(biostat 26'), **Tony Zhu**(biostat 27'),and **Julia Daye Jung**(CBB 28'), joining the lab as a research assistant! (4/22/2026) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
 {% capture news0 %}
-Congratulations to **Weiqiang Liu** for receiving the ASAP CRN Discovery Fellowship ($500k for two years)! (121/11/2025)
+Congratulations to **Dr Weiqiang Liu** for receiving the [ASAP CRN Discovery Fellowship](https://parkinsonsroadmap.org/newsroom/discovery-fellows-inaugural-cohort/)! (4/21/2026)
 {% endcapture %}
 {% include alert.html type="award" content=news0 %}
 
@@ -99,7 +104,7 @@ Congratulations to the TFBoy team (**Yuxuan Hu**, **Weiqiang Liu**, and **Yiyong
 {% include alert.html type="award" content=news0 %}
 
 {% capture news01 %}
-Welcome two talent high schooler, **Sophia Kong** and **Christopher Zhang**, joining the lab as a summer intern! (6/1/2025) 
+Welcome two talented high schooler, **Sophia Kong** and **Christopher Zhang**, joining the lab as a summer intern! (6/1/2025) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
 

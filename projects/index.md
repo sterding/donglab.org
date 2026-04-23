@@ -26,7 +26,7 @@ Below are active projects in the lab:
 {% include float.html content=content flip=false %}
 ​Genome-wide association studies (GWAS) have unequivocally linked thousands of noncoding variants to Parkinson’s disease (PD). Why have these breakthroughs not uncovered the mechanism(s) of common, genetically complex PD? We do not know how GWAS variants cause neurodegeneration, which variants are causal, and why they impair some brain cells but not others. Overwhelming evidence shows that *cis*-regulation of transcription is the most likely mediator of disease risk, and that it is finely tuned by cellular and dynamic context. Here we will pinpoint the causal gene(s) through which GWAS loci function in spatially barcoded, single brain cells and, dynamically, over pseudotime using single-nucleus expression Quantitative Trait Locus (eQTL) analysis. Putative causal genes will be tested mechanistically in cell- and stage-specific analyses in vivo in Drosophila avatars and in vitro in human pluripotent stem cells. Moreover, we will identify the corresponding causal GWAS variants through allele-specific expression and CRISPR/Cas9-variant editing in single brain cells. This collaborative and highly integrated project will begin to reveal the complex human genetics of PD through a dynamic, multi-dimensional view of proximal cellular mechanisms across brain cells, brain space, and disease stage.
 
->**Funding: ASAP (PIs: Scherzer, Levin, Dong, Feany, Zhang), 2021-2026, $9M in total**
+>**Funding: ASAP (PIs: Scherzer, Levin, Dong, Feany, Zhang), 2021-2027**
 
 ​As part of the [ASAP](https://parkinsonsroadmap.org/) CRN, our team has generated large-scale multi-model datasets, incl. scRNAseq, scATACseq, spatial transcriptomics, genomics, and clinical data for two brain regions (MTG and midbrain) of 100 human subjects (incl. healthy control, prodromal, and PD). The rich datasets from this project, together with other shared omics data from ASAP CRN, can be used to answer various biological questions related to Parkinson's disease. We are looking for computational talents who are passinate with genomics and neurosceince and [join us]({{ site.baseurl }}/join) to explore the data together. 
 
@@ -44,7 +44,7 @@ Two lines of recent evidence motivate us to study PD pathogenesis in a real neur
 
 In this study, we teamed up with Dr. Luke Lee at Harvard Medical School, and combined our expertise in brain organoids, PD biology, exosome analysis, single-cell omics, bioinformatics, and biomedical engineering to develop a new 3D brain organoids microphysiological analysis platform (MAP) to recapitulate the dopamine neurons’ interconnectivity and study molecular neurodegeneration systematically. We will (1) first develop PD organoids and profile the transcriptome (incl. circRNAs, miRNAs, mRNAs, lncRNAs, etc.) of secreted EV and single-cell transcriptome of brain organoids, to identify PD-associated RNAs, then (2) map the pathophysiological dynamics of PD organoids in a novel, high-throughput, mini-brain-on-chip platform, and last will (3) integrate the EV-organoid temporal multi-dimensional data to infer the PD-associated RNAs and their regulatory dynamics during the PD pathogenesis.
 
->**Funding: NIH R01 (PIs: Lee, Dong), 2021-2026, $5M in total**
+>**Funding: NIH R01 (PIs: Lee, Dong), 2021-2027**
 ​
 {% include float.html clear=true %}
 
@@ -59,7 +59,7 @@ Chronic pain affects >25 million Americans per year, with enormous impacts on bo
 
 As one of the key components of the Center, the Data Core aims to act as a data center by building data infrastructure, providing data management, coordination, analysis, and sharing to the investigators within the Center and other centers in the community. The projects will generate nearly 4,000 datasets of clinical (pain scores, demographics), single-cell RNA-seq, single-cell ATAC-seq, SNP genotyping, spatial transcriptomics from MERFISH, and physiology for over 1,700 samples from 150 donors. 
 
->**Funding: NIH U19 (Lead PI: Renthal) - Data Core (PI: Dong), 2022-2027, $13M in total**
+>**Funding: NIH U19 (Lead PI: Renthal) - Data Core (PI: Dong), 2022-2027**
 ​
 {% include float.html clear=true %}
 
@@ -75,7 +75,7 @@ Retrotransposon elements are mobile genetic elements that copy themselves by tra
 
 In this collaborative project with Dr Sun's team at John Hopkin University, we aim to decipher the molecular mechanism of LINE1 RNA dysregulation, particularly the dysfunction of LINE1 RNA decay pathway caused by TDP-43 loss of function. We will determine the causal relationship of LINE1 RNA elevation with chromatin accessibility, histone modification and transcriptional gene network disruption. We will combine human induced pluripotent stem cell-differentiated neurons and patient-derived postmortem tissues to dissect the molecular mechanisms and associate with TDP- 43 proteiopathy. Our proposed study will provide deeper mechanistic understanding of the retroelement dysregulation and its role in functional genomics, which is largely understudied in the past. The findings will help understanding the disease mechanisms and facilitating therapy development in neurodegeneration diseases.
 
->**Funding: NIH R01 (PIs: Sun, Dong), 2022-2027, $5M in total**
+>**Funding: NIH R01 (PIs: Sun, Dong), 2022-2027**
 ​
 {% include float.html clear=true %}
 
@@ -83,7 +83,7 @@ In this collaborative project with Dr Sun's team at John Hopkin University, we a
 
 ## AI multi-omics model for neurological diseases
 
-Fast development in LLM AI models and their application to omics (e.g. State, alphaGenome) has set the fire for the omics field. We have accumulated years of experiences in studying gene regulation and their roles in neurodegenerative diseases. Now, with the access to large-scale multi-omics data from both in-house projects (e.g. PD5D, BRAINcode) and large consortiums, we aim to build an AI multi-omics model (or refine the existing pretrained model) to predict cell-specific gene regulatory network, drug response, and/or disease association.  
+Fast development in LLM AI models and their application to omics (e.g. State, alphaGenome) has set the fire for the omics field. We have accumulated years of experiences in studying gene regulation and their roles in neurodegenerative diseases. Now, with the access to large-scale multi-omics data from both in-house projects (e.g. PD5D, BRAINcode) and large consortia, we aim to build an AI multi-omics model (or refine the existing pretrained model) to predict cell-specific gene regulatory network, drug response, and/or disease association.  
 
 >**Funding: Yale Seed fund**
 ​
