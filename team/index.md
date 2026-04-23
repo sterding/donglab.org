@@ -92,4 +92,3 @@ We want to push the frontier of data science and train the next generation of da
   link="join"
   style="button"
 %}
-
