@@ -11,7 +11,7 @@ Our lab relocated to Yale University in 2024, after spending ten years at Brigha
 
 Our main office is located at 101 College Street, New Haven, a new state-of-the-art research facility that houses many of Yale’s neuroscience and data science programs. Our wet lab currently operates at 300 George Street in New Haven and is expected to move into the 101 College Street building in 2026.
 
-Yale University is located in New Haven, Connecticut, a vibrant yet peaceful coastal city conveniently situated between Boston and New York City. (Tips: [How to reach our campus](https://yalecollege.yale.edu/first-year-and-new-student-resources/planning-your-move/how-get-campus))
+Yale University is located in New Haven, Connecticut, a vibrant yet peaceful coastal city conveniently situated between Boston and New York City. (Tips: [How to reach our campus](https://college.yale.edu/welcome-to-yale-college/how-to-get-to-campus))
 
 {%
   include button.html
