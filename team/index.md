@@ -32,7 +32,6 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  filters="role: master, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: researchassistant, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: trainee, group: " %}
-{% include list.html  data="members"  component="portrait"  filters="role: technician, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: manager, group: " %}
 
 
@@ -50,7 +49,6 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: researchassociate, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: researchassistant, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: trainee, group: alum" %}
-{% include list.html  data="members"  component="portrait"  style="small" filters="role: technician, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: manager, group: alum" %}
 
 {% include section.html %}
