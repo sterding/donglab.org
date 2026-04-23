@@ -24,6 +24,7 @@ The team includes postdocs, staff, and students at all levels.
 
 {% include list.html  data="members"  component="portrait"  filters="role: pi, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: ARS, group: " %}
+{% include list.html  data="members"  component="portrait"  filters="role: postdocfellow, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: postdoc, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: phd, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: engineer, group: " %}
@@ -31,8 +32,8 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  filters="role: master, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: researchassistant, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: trainee, group: " %}
-{% include list.html  data="members"  component="portrait"  filters="role: manager, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: technician, group: " %}
+{% include list.html  data="members"  component="portrait"  filters="role: manager, group: " %}
 
 
 {% include section.html %}
@@ -41,6 +42,7 @@ The team includes postdocs, staff, and students at all levels.
 ## Alumni
 
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: ARS, group: alum" %}
+{% include list.html  data="members"  component="portrait"  style="small" filters="role: postdocfellow, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: postdoc, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: phd, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: master, group: alum" %}
@@ -48,8 +50,8 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: researchassociate, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: researchassistant, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: trainee, group: alum" %}
-{% include list.html  data="members"  component="portrait"  style="small" filters="role: manager, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: technician, group: alum" %}
+{% include list.html  data="members"  component="portrait"  style="small" filters="role: manager, group: alum" %}
 
 {% include section.html %}
 
