@@ -1,7 +1,7 @@
 ---
 name: Maria I. Olivero-Acosta, PhD
 image: images/headshots/maria.jpg
-role: postdoc
+role: postdocfellow
 aliases:
   - M.I. Olivero-Acosta
   - M Olivero
@@ -13,7 +13,7 @@ links:
   google-scholar: 5e21XPMAAAAJ
 ---
 
-Maria I. Olivero-Acosta, PhD, is a Postdoctoral Associate in Dr. Xianjun Dong's Lab. She received her PhD in Aug 2024 in Medicinal Chemistry and Molecular Pharmacology at Purdue University under the mentorship of [Dr. Yang Yang](https://www.yangyanglab.org), where she developed stem cell-derived 2D neuron monolayers and 3D cortical organoids models carrying the epilepsy-associated sodium channel Nav1.2 genetic variant L1342P. This recurrent genetic variant is linked to abnormal neuronal hyperexcitability and changes in brain morphology. During her undergraduate studies at the University of Cartagena in Colombia, she performed virtual screening of natural-product-derived molecules targeting epidermal growth factor receptors for cancer prevention and treatment.
+Maria I. Olivero-Acosta, PhD, is an APDA Postdoctoral Fellow in the lab. She received her PhD in Aug 2024 in Medicinal Chemistry and Molecular Pharmacology at Purdue University under the mentorship of [Dr. Yang Yang](https://www.yangyanglab.org), where she developed stem cell-derived 2D neuron monolayers and 3D cortical organoids models carrying the epilepsy-associated sodium channel Nav1.2 genetic variant L1342P. This recurrent genetic variant is linked to abnormal neuronal hyperexcitability and changes in brain morphology. During her undergraduate studies at the University of Cartagena in Colombia, she performed virtual screening of natural-product-derived molecules targeting epidermal growth factor receptors for cancer prevention and treatment.
 	
 Dr. Olivero-Acosta is passionate about teaching and mentoring. As a teaching assistant at Purdue University's Imaging Facilities, she trained users across the Purdue campus on sample preparation and microscopy. She is proficient with advanced imaging equipment, including Nikon and Zeiss Microscopes,  IncuCyte S3 Live Cell Imaging Systems, and IVIS Illumina Animal Imagers. She has prepared and imaged diverse samples, such as human and animal cell lines, plants, Drosophila, zebrafish, C. elegans, artificial membranes, and electrode chips.  Throughout her doctoral career, she has mentored and trained more than 12 undergraduate students in lab research, earning eight awards for their joint efforts in poster and talk presentations at Purdue Undergraduate Conferences.
 	

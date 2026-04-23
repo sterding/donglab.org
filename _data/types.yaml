@@ -14,9 +14,13 @@ RS:
   #icon: fa-solid fa-code
   description: Research Scientist
   
+postdocfellow:
+  #icon: fa-solid fa-glasses
+  description: Postdoctoral Fellow
+
 postdoc:
   #icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral Associate
 
 phd:
   #icon: fa-solid fa-graduation-cap
