@@ -77,7 +77,8 @@ The team includes postdocs, staff, and students at all levels.
 [![Yale AI Seed](/images/yale-university-logo.png)](https://ai.yale.edu/seed-grant-awards-2025)
 
 {% endcapture %}
-
+​
+{% include grid.html content=content %}
 
 {% include section.html %}
 
@@ -91,7 +92,4 @@ We want to push the frontier of data science and train the next generation of da
   link="join"
   style="button"
 %}
-
-​
-{% include grid.html content=content %}
 
