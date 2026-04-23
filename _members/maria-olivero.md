@@ -1,7 +1,7 @@
 ---
 name: Maria I. Olivero-Acosta, PhD
 image: images/headshots/maria.jpg
-role: postdocfellow
+role: fellow
 aliases:
   - M.I. Olivero-Acosta
   - M Olivero

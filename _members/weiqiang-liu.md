@@ -1,7 +1,7 @@
 ---
 name: Weiqiang Liu, PhD
 image: images/headshots/weiqiang.jpg
-role: postdocfellow
+role: fellow
 links:
   email: weiqiang.liu@yale.edu
   orcid: 0000-0002-2429-8791
