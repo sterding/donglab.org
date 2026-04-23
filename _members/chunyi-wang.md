@@ -1,6 +1,6 @@
 ---
 name: Chunyi Wang
-image: images/headshots/chunyi.jpg
+image: images/headshots/chunyi.JPG
 role: researchassistant
 aliases:
   - C. Wang
