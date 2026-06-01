@@ -5,6 +5,7 @@
 
 The Dong Lab is a team of researchers at Yale University dedicated to answering important questions in genome biology and brain diseases with both computational and experimental methods. We focus on studying transcriptional regulation and non-coding RNAs and their roles in neurodegenerative diseases through developing computational methods to integrate and analyze multi-omics and clinical data. 
 
+<!-- 
 {%
   include button.html
   icon="fa-brands fa-linkedin" 
@@ -12,7 +13,7 @@ The Dong Lab is a team of researchers at Yale University dedicated to answering 
   link="join"
   style="button"
 %}
-
+-->
 
 {%
   include figure.html
@@ -73,6 +74,11 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 {% include section.html %}
 
 ## News
+{% capture news01 %}
+Welcome **Dr Youchuan Wang** joining the lab as a postdoc associate! (6/1/2026) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
 {% capture news01 %}
 Welcome four talented Yale Master's students, **Mengmeng Wang** (CBB 27'), **Chunyi Wang** (biostat 26'), **Tony Zhu** (biostat 27'), and **Julia Daye Jung** (CBB 28'), joining the lab as a research assistant! (4/22/2026) 
 {% endcapture %}

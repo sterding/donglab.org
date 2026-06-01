@@ -2,6 +2,7 @@
 name: William Xu
 image: images/headshots/william.jpg
 role: researchassistant
+group: alum
 aliases:
   - W. Xu
   - W Xu
