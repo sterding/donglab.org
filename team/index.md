@@ -70,7 +70,7 @@ The team includes postdocs, staff, and students at all levels.
 
 [![Brigham Research Institute](/images/team/BRI-logo.png)](https://www.discoverbrigham.org/)
 
-[![Massachusetts Life Sciences Center](/images/team/MLSC-logo.jpeg)](https://www.masslifesciences.com)
+[![Massachusetts Life Sciences Center](/images/team/MLSC-logo.png)](https://www.masslifesciences.com)
 
 [![Yale AI Seed](/images/yale-university-logo.png)](https://ai.yale.edu/seed-grant-awards-2025)
 
