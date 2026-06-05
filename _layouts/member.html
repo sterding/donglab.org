@@ -28,6 +28,8 @@ layout: default
   | array_filter
 %}
 
+<!--
+
 {% capture search -%}
   publication/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
@@ -42,7 +44,7 @@ layout: default
   blog/?search={{ page.name }}
 {%- endcapture %}
 
-<!--
+
 <p class="center">
   <a href="{{ search | relative_url }}">
     See {{ page.name | default: page.title }}'s posts on the Blog page
