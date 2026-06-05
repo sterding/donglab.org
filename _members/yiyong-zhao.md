@@ -12,4 +12,4 @@ links:
   github: YiyongZhao
   orcid: 0000-0002-5823-2926
 ---
-Yiyong "Rambo" was a post-doctoral research fellow in Dr. Dong’s lab. 
+Yiyong "Rambo" was a post-doctoral associate in Dr. Dong’s lab (BWH and Yale).

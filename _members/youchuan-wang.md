@@ -4,9 +4,13 @@ image: images/headshots/youchuan.jpg
 role: postdoc
 aliases:
   - KF. Panda
+  - Y. Wang
+  - Youchuan Wang
 links:
-  github: YiyongZhao
-  orcid: 0000-0002-5823-2926
+  github: ywang552
+  email: youchuan.wang@yale.edu
+  orcid: 0009-0004-3174-9054
+  google-scholar: 9-nO53oAAAAJ
 ---
 Youchuan Wang is a postdoctoral associate at Yale University School of Medicine. His current work focuses on two main directions: developing foundation and world models for perturbation dynamics in neurodegenerative brain diseases and conducting interpretability analysis of these models to better understand their learned biological mechanisms.
 
