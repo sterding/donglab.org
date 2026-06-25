@@ -26,6 +26,10 @@ phd:
   #icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+var:
+  #icon: fa-solid fa-graduation-cap
+  description: Visiting PhD Student
+
 researchassociate:
   #icon: fa-solid fa-code
   description: Research Associate
