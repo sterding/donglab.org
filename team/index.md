@@ -27,6 +27,7 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  filters="role: fellow, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: postdoc, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: phd, group: " %}
+{% include list.html  data="members"  component="portrait"  filters="role: var, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: engineer, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: researchassociate, group: " %}
 {% include list.html  data="members"  component="portrait"  filters="role: master, group: " %}
@@ -44,6 +45,7 @@ The team includes postdocs, staff, and students at all levels.
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: fellow, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: postdoc, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: phd, group: alum" %}
+{% include list.html  data="members"  component="portrait"  style="small" filters="role: var, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: master, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: engineer, group: alum" %}
 {% include list.html  data="members"  component="portrait"  style="small" filters="role: researchassociate, group: alum" %}
