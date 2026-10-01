@@ -42,6 +42,10 @@ researchassistant:
   #icon: fa-solid fa-code
   description: Research Assistant
 
+vas:
+  #icon: fa-solid fa-code
+  description: Visiting Undergraduate
+
 engineer:
   #icon: fa-solid fa-code
   description: Bioinformatics Engineer

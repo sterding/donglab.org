@@ -75,6 +75,11 @@ We are a team of enthusiastic researchers that enjoy the marriage of genome rese
 
 ## News
 {% capture news01 %}
+Welcome **Yufei Shao** joining the lab as a Visiting Undergraduate from Nanjing University! (10/1/2026) 
+{% endcapture %}
+{% include alert.html type="onboard" content=news01 %}
+
+{% capture news01 %}
 Welcome four talent students, **Sophia Kong**, **Christopher Zhang**, **Helen Su**, and **Festus Ajibefun**, joining the lab this summer! (6/8/2026) 
 {% endcapture %}
 {% include alert.html type="onboard" content=news01 %}
