@@ -2,6 +2,7 @@
 name: Deep Patel
 image: images/headshots/deep.jpg
 role: master
+group: alum
 aliases:
   - D. Patel
   - D Patel

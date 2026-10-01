@@ -1,5 +1,5 @@
 ---
-name: Yiyong Zhao, PhD
+name: Yiyong "Rambo" Zhao, PhD
 image: images/headshots/yiyong.jpg
 role: postdoc
 group: alum

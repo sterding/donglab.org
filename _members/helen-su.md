@@ -2,6 +2,7 @@
 name: Qianyue Su
 image: images/headshots/helen.jpg
 role: researchassistant
+group: alum
 links:
   email: sqy3035979097@qq.com
 ---

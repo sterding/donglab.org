@@ -2,6 +2,7 @@
 name: Festus Ajibefun
 image: images/headshots/festus.jpeg
 role: var
+group: alum
 aliases:
   - F. Ajibefun
   - F Ajibefun
