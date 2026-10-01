@@ -1,5 +1,5 @@
 ---
-name: Yiyong "Rambo" Zhao, PhD
+name: Yiyong Zhao, PhD
 image: images/headshots/yiyong.jpg
 role: postdoc
 group: alum
@@ -12,4 +12,5 @@ links:
   github: YiyongZhao
   orcid: 0000-0002-5823-2926
 ---
-Yiyong "Rambo" was a post-doctoral associate in Dr. Dong’s lab (BWH and Yale).
+
+Yiyong was a post-doctoral associate in Dr. Dong’s lab (BWH and Yale).
