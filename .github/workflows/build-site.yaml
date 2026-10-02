@@ -26,6 +26,12 @@ jobs:
 
       - name: Checkout branch contents
         uses: actions/checkout@v3
+        with:
+          # The citation job may have committed after the triggering commit.
+          ref: ${{ github.ref_name }}
+
+      - name: Check generated citations exist
+        run: test -s _data/citations.yaml
 
       - name: Install Ruby packages
         uses: ruby/setup-ruby@v1
